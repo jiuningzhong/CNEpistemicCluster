@@ -32,7 +32,7 @@ def read_from_csv(file_name):
                 line_count += 1
             #print(f'\t line count: {line_count} \t classification: {row["Complexity_level"]} \t text: {row["text"]}.')
             testimonial = TextBlob(row["text"])
-            print(f'\t line count: {line_count} \t polarity: {testimonial.sentiment.polarity} \t subjectivity: {testimonial.sentiment.subjectivity}.')
+            #print(f'\t line count: {line_count} \t polarity: {testimonial.sentiment.polarity} \t subjectivity: {testimonial.sentiment.subjectivity}.')
             polarity_dict[line_count] = testimonial.sentiment.polarity
             subjectivity_dict[line_count] = testimonial.sentiment.subjectivity
             line_count += 1
@@ -48,6 +48,24 @@ if __name__ == "__main__":
     textPath = path.join(d, 'Train_KF_T.csv')
     read_from_csv(textPath)
 
+    polarity_dict = {k: v for k, v in sorted(polarity_dict.items(), key=lambda item: item[1], reverse=True)}
+    subjectivity_dict = {k: v for k, v in sorted(subjectivity_dict.items(), key=lambda item: item[1], reverse=True)}
+
+    line_count = 0
+    for k, v in polarity_dict.items():
+        if line_count < 20:
+            print('\t line count: %s \t --- \t polarity: %s' % (k, v))
+        else:
+            break
+        line_count += 1
+
+    line_count = 0
+    for k, v in subjectivity_dict.items():
+        if line_count < 20:
+            print('\t line count: %s \t --- \t subjectivity: %s' % (k, v))
+        else:
+            break
+        line_count += 1
     # print(words)
 
 # classifier: https://textblob.readthedocs.io/en/latest/classifiers.html
