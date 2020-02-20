@@ -21,22 +21,28 @@ class Dict(dict):
 # https://docs.python.org/3/library/stdtypes.html#dict
 polarity_dict = Dict()
 subjectivity_dict = Dict()
+text_dict = Dict()
+text_with_dup_dict = Dict()
 
 def read_from_csv(file_name):
-    with open(file_name, mode='r') as csv_file:
+    with open(file_name, mode='r', encoding="utf8") as csv_file:
         csv_reader = csv.DictReader(csv_file)
         line_count = 0
         for row in csv_reader:
             if line_count == 0:
                 print(f'Column names are {", ".join(row)}')
                 line_count += 1
-            #print(f'\t line count: {line_count} \t classification: {row["Complexity_level"]} \t text: {row["text"]}.')
-            testimonial = TextBlob(row["text"])
-            #print(f'\t line count: {line_count} \t polarity: {testimonial.sentiment.polarity} \t subjectivity: {testimonial.sentiment.subjectivity}.')
-            polarity_dict[line_count] = testimonial.sentiment.polarity
-            subjectivity_dict[line_count] = testimonial.sentiment.subjectivity
+
+            text_with_dup_dict[line_count] = row["text"]
             line_count += 1
-        print(f'Processed {len(polarity_dict)} lines.')
+            if row["text"] in text_dict.values():
+                continue
+            else:
+                testimonial = TextBlob(row["text"])
+                polarity_dict[line_count] = testimonial.sentiment.polarity
+                subjectivity_dict[line_count] = testimonial.sentiment.subjectivity
+                text_dict[line_count] = row["text"]
+
 
 def read_from_file(file_name):
     with open(file_name,"r", encoding='utf-8') as fp:
@@ -45,28 +51,116 @@ def read_from_file(file_name):
 
 if __name__ == "__main__":
     d = os.getcwd()
-    textPath = path.join(d, 'Train_KF_T.csv')
+   # textPath = path.join(d, 'Train_KF_T.csv')
+    textPath = path.join(d, 'Train_all_types.csv')
     read_from_csv(textPath)
 
     polarity_dict = {k: v for k, v in sorted(polarity_dict.items(), key=lambda item: item[1], reverse=True)}
     subjectivity_dict = {k: v for k, v in sorted(subjectivity_dict.items(), key=lambda item: item[1], reverse=True)}
 
+    print('---------------------TOP 50------------------------')
     line_count = 0
     for k, v in polarity_dict.items():
-        if line_count < 20:
-            print('\t line count: %s \t --- \t polarity: %s' % (k, v))
+        if line_count < 50:
+            print('\t line count: %s \t --- \t polarity: %s --- \t subjectivity: %s --- \t text: %s' % (k, v, subjectivity_dict[k], text_dict[k]))
+            #print('\t line count: %s \t --- \t polarity: %s' % (k, v))
         else:
-            break
+            continue
         line_count += 1
 
+    print('---------------------TOP 50------------------------')
     line_count = 0
     for k, v in subjectivity_dict.items():
-        if line_count < 20:
-            print('\t line count: %s \t --- \t subjectivity: %s' % (k, v))
+        if line_count < 50:
+            print('\t line count: %s \t --- \t polarity: %s --- \t subjectivity: %s --- \t text: %s' % (k, polarity_dict[k], v, text_dict[k]))
+            #print('\t line count: %s \t --- \t subjectivity: %s' % (k, v))
         else:
-            break
+            continue
         line_count += 1
-    # print(words)
+
+    print('---------------------------------------------')
+
+    polarity_dict = {k: v for k, v in sorted(polarity_dict.items(), key=lambda item: item[1])}
+    subjectivity_dict = {k: v for k, v in sorted(subjectivity_dict.items(), key=lambda item: item[1])}
+
+    print('---------------------BOTTOM 50------------------------')
+    line_count = 0
+    for k, v in polarity_dict.items():
+        if v != 0.0 and line_count < 50:
+            print('\t line count: %s \t --- \t polarity: %s --- \t subjectivity: %s --- \t text: %s' % (k, v, subjectivity_dict[k], text_dict[k]))
+            line_count += 1
+            #print('\t line count: %s \t --- \t polarity: %s' % (k, v))
+        else:
+            continue
+
+    print('---------------------BOTTOM 50------------------------')
+    line_count = 0
+    for k, v in subjectivity_dict.items():
+        if v != 0.0 and line_count < 50:
+            print('\t line count: %s \t --- \t polarity: %s --- \t subjectivity: %s --- \t text: %s' % (k, polarity_dict[k], v, text_dict[k]))
+            line_count += 1
+            #print('\t line count: %s \t --- \t subjectivity: %s' % (k, v))
+        else:
+            continue
+
+    print('---------------------Train_all_types.csv------------------------')
+    print(f'Processed {len(text_dict)} lines.')
+    print(f'Processed {len(text_with_dup_dict)} lines with dups.')
+
+    polarity_dict.clear()
+    subjectivity_dict.clear()
+    text_dict.clear()
+    text_with_dup_dict.clear()
+    textPath = path.join(d, 'Train_KF_T.csv')
+    read_from_csv(textPath)
+
+    print('---------------------Train_KF_T.csv------------------------')
+    print(f'Processed {len(text_dict)} lines.')
+    print(f'Processed {len(text_with_dup_dict)} lines with dups.')
+
+    polarity_dict.clear()
+    subjectivity_dict.clear()
+    text_dict.clear()
+    text_with_dup_dict.clear()
+    textPath = path.join(d, 'Train_KF_X.csv')
+    read_from_csv(textPath)
+
+    print('---------------------Train_KF_X.csv------------------------')
+    print(f'Processed {len(text_dict)} lines.')
+    print(f'Processed {len(text_with_dup_dict)} lines with dups.')
+
+    polarity_dict.clear()
+    subjectivity_dict.clear()
+    text_dict.clear()
+    text_with_dup_dict.clear()
+    textPath = path.join(d, 'Train_KF2.csv')
+    read_from_csv(textPath)
+
+    print('---------------------Train_KF2.csv------------------------')
+    print(f'Processed {len(text_dict)} lines.')
+    print(f'Processed {len(text_with_dup_dict)} lines with dups.')
+
+    polarity_dict.clear()
+    subjectivity_dict.clear()
+    text_dict.clear()
+    text_with_dup_dict.clear()
+    textPath = path.join(d, 'Train_question.csv')
+    read_from_csv(textPath)
+
+    print('---------------------Train_question.csv------------------------')
+    print(f'Processed {len(text_dict)} lines.')
+    print(f'Processed {len(text_with_dup_dict)} lines with dups.')
+
+    polarity_dict.clear()
+    subjectivity_dict.clear()
+    text_dict.clear()
+    text_with_dup_dict.clear()
+    textPath = path.join(d, 'Train_resource.csv')
+    read_from_csv(textPath)
+
+    print('---------------------Train_resource.csv------------------------')
+    print(f'Processed {len(text_dict)} lines.')
+    print(f'Processed {len(text_with_dup_dict)} lines with dups.')
 
 # classifier: https://textblob.readthedocs.io/en/latest/classifiers.html
 # sentiment analyzers: https://textblob.readthedocs.io/en/latest/advanced_usage.html#sentiment-analyzers

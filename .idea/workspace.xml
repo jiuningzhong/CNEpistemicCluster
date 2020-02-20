@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ab88b18-c6a7-4c4c-a252-f58dc59bf3df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Train_KF_T.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CNEpistemicCluster.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CNEpistemicCluster.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextBlob/Train_KF2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextBlob/Train_KF_X.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextBlob/Train_all_types.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextBlob/Train_question.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextBlob/Train_resource.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Train_all_types.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TextBlob/sentimentAnalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/sentimentAnalysis.py" afterDir="false" />
     </list>
@@ -34,7 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TextBlob" />
     <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -52,6 +55,7 @@
       <recent name="C:\Users\Jiuning\PycharmProjects\CNEpistemicCluster\jieba\chinese" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jzhong\PycharmProjects\CNEpistemicCluster\TextBlob" />
       <recent name="C:\Users\jzhong\PycharmProjects\CNEpistemicCluster" />
       <recent name="C:\Users\Jiuning\PycharmProjects\CNEpistemicCluster\TextBlob" />
       <recent name="C:\Users\Jiuning\PycharmProjects\CNEpistemicCluster\jieba\chinese" />
@@ -184,6 +188,10 @@
       <screen x="1600" y="0" width="1920" height="1080" />
     </state>
     <state x="2267" y="301" width="585" height="478" key="find.popup/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581376965107" />
+    <state x="2345" y="197" key="run.anything.popup" timestamp="1582229152381">
+      <screen x="1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="2345" y="197" key="run.anything.popup/0.0.1536.834/1920.0.1536.864@1920.0.1536.864" timestamp="1582229152381" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
