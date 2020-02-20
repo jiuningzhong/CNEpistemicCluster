@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ab88b18-c6a7-4c4c-a252-f58dc59bf3df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WgCF5y4qPGcx9q6qNCndjztYRd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jieba/chinese" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jiuning\PycharmProjects\CNEpistemicCluster\jieba\chinese" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jiuning\PycharmProjects\CNEpistemicCluster\jieba" />
+      <recent name="C:\Users\Jiuning\PycharmProjects\CNEpistemicCluster\jieba\chinese" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="jcluster" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CNEpistemicCluster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jieba" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jieba/jcluster.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.jcluster" />
+        <item itemvalue="Python.jcluster" />
+        <item itemvalue="Python.jcluster" />
+        <item itemvalue="Python.jcluster" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2317" y="348" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579562937409">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2317" y="348" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1579562937409" />
+    <state width="1313" height="466" key="DebuggerActiveHint" timestamp="1581391481033">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1313" height="466" key="DebuggerActiveHint/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581391481033" />
+    <state width="1898" height="369" key="GridCell.Tab.0.bottom" timestamp="1581391715504">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="369" key="GridCell.Tab.0.bottom/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581391715504" />
+    <state width="1898" height="369" key="GridCell.Tab.0.center" timestamp="1581391715503">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="369" key="GridCell.Tab.0.center/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581391715503" />
+    <state width="1898" height="369" key="GridCell.Tab.0.left" timestamp="1581391715503">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="369" key="GridCell.Tab.0.left/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581391715503" />
+    <state width="1898" height="369" key="GridCell.Tab.0.right" timestamp="1581391715504">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="369" key="GridCell.Tab.0.right/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581391715504" />
+    <state width="1898" height="369" key="GridCell.Tab.1.bottom" timestamp="1581391794723">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="369" key="GridCell.Tab.1.bottom/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581391794723" />
+    <state width="1898" height="369" key="GridCell.Tab.1.center" timestamp="1581391794723">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="369" key="GridCell.Tab.1.center/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581391794723" />
+    <state width="1898" height="369" key="GridCell.Tab.1.left" timestamp="1581391794723">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="369" key="GridCell.Tab.1.left/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581391794723" />
+    <state width="1898" height="369" key="GridCell.Tab.1.right" timestamp="1581391794723">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="369" key="GridCell.Tab.1.right/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581391794723" />
+    <state x="2088" y="103" key="SettingsEditor" timestamp="1579563783762">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2088" y="103" key="SettingsEditor/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1579563783762" />
+    <state x="2267" y="301" width="585" height="478" key="find.popup" timestamp="1581376965107">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2267" y="301" width="585" height="478" key="find.popup/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581376965107" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jieba/jcluster.py</url>
+          <line>106</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jieba/jcluster.py</url>
+          <line>142</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jieba/jcluster.py</url>
+          <line>139</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
