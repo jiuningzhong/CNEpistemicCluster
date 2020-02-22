@@ -22,7 +22,20 @@ class Dict(dict):
 polarity_dict = Dict()
 subjectivity_dict = Dict()
 text_dict = Dict()
+complexity_dict = Dict()
 text_with_dup_dict = Dict()
+
+def write_to_csv( dict1, dict2, file_name):
+    with open(file_name, 'w', newline='', encoding="utf8") as csvfile:
+        fieldnames = ['Complexity_level', 'text']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+        # writer = csv.DictWriter(csvfile)
+        keys = dict1.keys()
+        writer.writeheader()
+        for k in keys:
+            # writer.writerow({'Complexity_level': dict1[k], 'text': dict2[k] })
+            writer.writerow({'text': dict2[k], 'Complexity_level': dict1[k]})
 
 def read_from_csv(file_name):
     with open(file_name, mode='r', encoding="utf8") as csv_file:
@@ -42,6 +55,7 @@ def read_from_csv(file_name):
                 polarity_dict[line_count] = testimonial.sentiment.polarity
                 subjectivity_dict[line_count] = testimonial.sentiment.subjectivity
                 text_dict[line_count] = row["text"]
+                complexity_dict[line_count]=row["Complexity_level"]
 
 
 def read_from_file(file_name):
@@ -106,10 +120,12 @@ if __name__ == "__main__":
     print('---------------------Train_all_types.csv------------------------')
     print(f'Processed {len(text_dict)} lines.')
     print(f'Processed {len(text_with_dup_dict)} lines with dups.')
+    write_to_csv( text_dict, complexity_dict, 'Train_all_types_no_dup.csv')
 
     polarity_dict.clear()
     subjectivity_dict.clear()
     text_dict.clear()
+    complexity_dict.clear()
     text_with_dup_dict.clear()
     textPath = path.join(d, 'Train_KF_T.csv')
     read_from_csv(textPath)
@@ -117,10 +133,12 @@ if __name__ == "__main__":
     print('---------------------Train_KF_T.csv------------------------')
     print(f'Processed {len(text_dict)} lines.')
     print(f'Processed {len(text_with_dup_dict)} lines with dups.')
+    write_to_csv( text_dict, complexity_dict, 'Train_KF_T_no_dup.csv')
 
     polarity_dict.clear()
     subjectivity_dict.clear()
     text_dict.clear()
+    complexity_dict.clear()
     text_with_dup_dict.clear()
     textPath = path.join(d, 'Train_KF_X.csv')
     read_from_csv(textPath)
@@ -128,10 +146,12 @@ if __name__ == "__main__":
     print('---------------------Train_KF_X.csv------------------------')
     print(f'Processed {len(text_dict)} lines.')
     print(f'Processed {len(text_with_dup_dict)} lines with dups.')
+    write_to_csv( text_dict, complexity_dict, 'Train_KF_X_no_dup.csv')
 
     polarity_dict.clear()
     subjectivity_dict.clear()
     text_dict.clear()
+    complexity_dict.clear()
     text_with_dup_dict.clear()
     textPath = path.join(d, 'Train_KF2.csv')
     read_from_csv(textPath)
@@ -139,10 +159,12 @@ if __name__ == "__main__":
     print('---------------------Train_KF2.csv------------------------')
     print(f'Processed {len(text_dict)} lines.')
     print(f'Processed {len(text_with_dup_dict)} lines with dups.')
+    write_to_csv( text_dict, complexity_dict, 'Train_KF2_no_dup.csv')
 
     polarity_dict.clear()
     subjectivity_dict.clear()
     text_dict.clear()
+    complexity_dict.clear()
     text_with_dup_dict.clear()
     textPath = path.join(d, 'Train_question.csv')
     read_from_csv(textPath)
@@ -150,10 +172,12 @@ if __name__ == "__main__":
     print('---------------------Train_question.csv------------------------')
     print(f'Processed {len(text_dict)} lines.')
     print(f'Processed {len(text_with_dup_dict)} lines with dups.')
+    write_to_csv( text_dict, complexity_dict, 'Train_question_no_dup.csv')
 
     polarity_dict.clear()
     subjectivity_dict.clear()
     text_dict.clear()
+    complexity_dict.clear()
     text_with_dup_dict.clear()
     textPath = path.join(d, 'Train_resource.csv')
     read_from_csv(textPath)
@@ -161,6 +185,7 @@ if __name__ == "__main__":
     print('---------------------Train_resource.csv------------------------')
     print(f'Processed {len(text_dict)} lines.')
     print(f'Processed {len(text_with_dup_dict)} lines with dups.')
+    write_to_csv( text_dict, complexity_dict, 'Train_resource_no_dup.csv')
 
 # classifier: https://textblob.readthedocs.io/en/latest/classifiers.html
 # sentiment analyzers: https://textblob.readthedocs.io/en/latest/advanced_usage.html#sentiment-analyzers

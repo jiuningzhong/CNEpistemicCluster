@@ -2,13 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ab88b18-c6a7-4c4c-a252-f58dc59bf3df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TextBlob/Train_KF2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextBlob/Train_KF_X.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextBlob/Train_all_types.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextBlob/Train_question.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextBlob/Train_resource.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Train_all_types.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextBlob/Classifer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextBlob/ClassifierBeta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextBlob/Train_KF2_no_dup.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextBlob/Train_KF_T_no_dup.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextBlob/Train_KF_X_no_dup.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextBlob/Train_all_types_no_dup.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextBlob/Train_question_no_dup.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextBlob/Train_resource_no_dup.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextBlob/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextBlob/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextBlob/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextBlob/train.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TextBlob/Train_all_types.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_all_types.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TextBlob/Train_question.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_question.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TextBlob/Train_resource.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_resource.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TextBlob/sentimentAnalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/sentimentAnalysis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/TextBlob" />
-    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -61,7 +70,25 @@
       <recent name="C:\Users\Jiuning\PycharmProjects\CNEpistemicCluster\jieba\chinese" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sentimentAnalysis">
+  <component name="RunManager" selected="Python.Classifer">
+    <configuration name="Classifer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CNEpistemicCluster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TextBlob" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TextBlob/Classifer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="jcluster" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CNEpistemicCluster" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,6 +114,9 @@
       <module name="CNEpistemicCluster" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TextBlob" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -103,9 +133,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sentimentAnalysis" />
-        <item itemvalue="Python.sentimentAnalysis" />
-        <item itemvalue="Python.sentimentAnalysis" />
+        <item itemvalue="Python.Classifer" />
+        <item itemvalue="Python.Classifer" />
+        <item itemvalue="Python.Classifer" />
         <item itemvalue="Python.sentimentAnalysis" />
         <item itemvalue="Python.sentimentAnalysis" />
       </list>
@@ -143,25 +173,25 @@
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
     <state x="2579" y="194" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1536.864@1920.0.1536.864" timestamp="1582218018164" />
-    <state width="1515" height="233" key="GridCell.Tab.0.bottom" timestamp="1582218898258">
+    <state width="1515" height="233" key="GridCell.Tab.0.bottom" timestamp="1582299142033">
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="233" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1536.864@1920.0.1536.864" timestamp="1582218898258" />
+    <state width="1515" height="233" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1536.864@1920.0.1536.864" timestamp="1582299142033" />
     <state width="1898" height="299" key="GridCell.Tab.0.bottom/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1582170029177" />
-    <state width="1515" height="233" key="GridCell.Tab.0.center" timestamp="1582218898257">
+    <state width="1515" height="233" key="GridCell.Tab.0.center" timestamp="1582299142032">
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="233" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1536.864@1920.0.1536.864" timestamp="1582218898257" />
+    <state width="1515" height="233" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1536.864@1920.0.1536.864" timestamp="1582299142032" />
     <state width="1898" height="299" key="GridCell.Tab.0.center/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1582170029176" />
-    <state width="1515" height="233" key="GridCell.Tab.0.left" timestamp="1582218898257">
+    <state width="1515" height="233" key="GridCell.Tab.0.left" timestamp="1582299142032">
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="233" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1536.864@1920.0.1536.864" timestamp="1582218898257" />
+    <state width="1515" height="233" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1536.864@1920.0.1536.864" timestamp="1582299142032" />
     <state width="1898" height="299" key="GridCell.Tab.0.left/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1582170029176" />
-    <state width="1515" height="233" key="GridCell.Tab.0.right" timestamp="1582218898257">
+    <state width="1515" height="233" key="GridCell.Tab.0.right" timestamp="1582299142033">
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="233" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1536.864@1920.0.1536.864" timestamp="1582218898257" />
+    <state width="1515" height="233" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1536.864@1920.0.1536.864" timestamp="1582299142033" />
     <state width="1898" height="299" key="GridCell.Tab.0.right/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1582170029177" />
     <state width="1898" height="369" key="GridCell.Tab.1.bottom" timestamp="1581391794723">
       <screen x="1600" y="0" width="1920" height="1080" />
@@ -179,10 +209,10 @@
       <screen x="1600" y="0" width="1920" height="1080" />
     </state>
     <state width="1898" height="369" key="GridCell.Tab.1.right/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581391794723" />
-    <state x="2310" y="82" key="SettingsEditor" timestamp="1582218959557">
+    <state x="2310" y="82" key="SettingsEditor" timestamp="1582314348072">
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
-    <state x="2310" y="82" key="SettingsEditor/0.0.1536.834/1920.0.1536.864@1920.0.1536.864" timestamp="1582218959557" />
+    <state x="2310" y="82" key="SettingsEditor/0.0.1536.834/1920.0.1536.864@1920.0.1536.864" timestamp="1582314348072" />
     <state x="2088" y="103" key="SettingsEditor/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1579563783762" />
     <state x="2267" y="301" width="585" height="478" key="find.popup" timestamp="1581376965107">
       <screen x="1600" y="0" width="1920" height="1080" />
