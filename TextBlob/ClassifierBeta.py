@@ -21,6 +21,15 @@ train = [
      ('my boss is horrible.', 'neg')
  ]
 
+test = [
+     ('the beer was good.', 'pos'),
+     ('I do not enjoy my job', 'neg'),
+     ("I ain't feeling dandy today.", 'neg'),
+     ("I feel amazing!", 'pos'),
+     ('Gary is a friend of mine.', 'pos'),
+     ("I can't believe I'm doing this.", 'neg')
+]
+
 cl = NaiveBayesClassifier(train)
 
 # Classifying Text
