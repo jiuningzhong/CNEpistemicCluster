@@ -10,6 +10,7 @@ import jieba.analyse
 import os
 from os import path
 from textblob import TextBlob
+import string
 
 import csv
 
@@ -51,7 +52,7 @@ def read_from_csv(file_name):
                 testimonial = TextBlob(row["text"])
                 polarity_dict[line_count] = testimonial.sentiment.polarity
                 subjectivity_dict[line_count] = testimonial.sentiment.subjectivity
-                text_dict[line_count] = row["text"]
+                text_dict[line_count] = "".join(l for l in row["text"] if l not in string.punctuation)
                 complexity_dict[line_count]=row["Complexity_level"]
 
 
