@@ -214,12 +214,12 @@ if __name__ == "__main__":
     d = os.getcwd()
    # textPath = path.join(d, 'Train_KF_T.csv')
     # textPath = path.join(d, 'Train_all_types_hashes.csv')
-
+    '''
     process_csv_file('Train_KF_T copy.csv')
     # process_four_csv_file('light_data_v01.csv')
     process_csv_file('Train_KF_all_types copy.csv')
-
     '''
+
     process_csv_file('Train_all_types.csv')
     process_csv_file('Train_KF_T.csv')
     process_csv_file('Train_KF_X.csv')
@@ -227,9 +227,9 @@ if __name__ == "__main__":
     process_csv_file('Train_question.csv')
     process_csv_file('Train_resource.csv')
 
-    process_csv_file('light_data_v01.csv')
+    # process_csv_file('light_data_v01.csv')
 
-    '''
+
     '''    
     polarity_dict = {k: v for k, v in sorted(polarity_dict.items(), key=lambda item: item[1], reverse=True)}
     subjectivity_dict = {k: v for k, v in sorted(subjectivity_dict.items(), key=lambda item: item[1], reverse=True)}
