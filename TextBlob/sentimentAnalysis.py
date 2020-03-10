@@ -176,7 +176,7 @@ def read_from_csv(file_name):
             line_count += 1
 
             label = row[2]
-            if 'Train_all_types.csv' in file_name:
+            if 'Train_all_types.csv' in file_name or 'Train_KF2.csv' in file_name:
                 label = row[0]
 
             # list out keys and values separately
