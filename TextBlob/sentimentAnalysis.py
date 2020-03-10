@@ -13,9 +13,11 @@ import wordninja as wn
 csv.register_dialect("hashes", delimiter="#")
 csv.register_dialect("comma", delimiter=",")
 
+
 class Dict(dict):
     def __missing__(self, key):
         return 0
+
 
 # global variable
 # https://docs.python.org/3/library/stdtypes.html#dict
@@ -24,7 +26,6 @@ subjectivity_dict = Dict()
 text_dict = Dict()
 complexity_dict = Dict()
 text_with_dup_dict = Dict()
-
 
 text_dict_EE = Dict()
 text_dict_E = Dict()
@@ -36,6 +37,7 @@ complexity_dictE = Dict()
 complexity_dictEF = Dict()
 complexity_dictF = Dict()
 
+
 def write_to_hashes_csv(dict1, dict2, file_name):
     with open(file_name, 'w', newline='', encoding="utf8") as csvfile:
         # fieldnames = ['Complexity_level', 'text']
@@ -44,11 +46,13 @@ def write_to_hashes_csv(dict1, dict2, file_name):
         for k in keys:
             writer.writerow((dict2[k], dict1[k]))
 
+
 def write_to_comma_csv(dict1, dict2, file_name):
     with open(file_name, 'w', newline='', encoding="utf8") as csvfile:
         # fieldnames = ['Complexity_level', 'text']
         writer = csv.writer(csvfile, dialect="comma")
         keys = dict1.keys()
+        writer.writerow(('Complexity_level', 'text'))
         for k in keys:
             writer.writerow((dict1[k], dict2[k]))
 
@@ -61,34 +65,33 @@ def write_four_types_to_csv(dict1, dict2, file_name):
         for k in keys:
             writer.writerow((dict1[k], dict2[k]))
 
+
 def clean_text(text):
     '''Make text lowercase, remove text in square brackets, remove punctuation and remove words containing numbers.'''
     text = text.lower()
-    text = re.sub(r'!"#%&(),:;<=>@]_`}~', '', text) # *+/
+    text = re.sub(r'!"#%&(),:;<=>@]_`}~', '', text)  # *+/
 
     # text = re.sub(r'[%s]' % re.escape(string.punctuation), '', text)
     # text = re.sub(r'\w*\d\w*', '', text)
     # text = re.sub(r'http\S+', 'urllink', text, flags=re.S)
 
     # remove http/https, punctuation, and remove space at the beginning and the end
-    text = text.replace('https', '').replace('http', '').replace('/', ' ')\
-        .replace('<', ' ').replace('>', ' ').replace(';', ' ').replace(':', ' ').replace('(', ' ')\
-        .replace(')', ' ').replace('www', '')\
-        .replace('!', ' ').replace('?', ' ').replace('.', ' ').replace(',', ' ')\
-        .replace('[','').replace(']','').replace('-','')\
-        .replace('$', ' ').replace('\n', '').replace('\t', '').replace('\r','')
+    text = text.replace('/', ' ').replace('<', ' ').replace('>', ' ').replace(';', ' ').replace(':', ' ') \
+        .replace(')', ' ').replace('!', ' ').replace('?', ' ').replace('.', ' ').replace(',', ' ') \
+        .replace('[', '').replace(']', '').replace('-', '').replace('(', ' ') \
+        .replace('$', ' ').replace('\n', '').replace('\t', '').replace('\r', '')
 
-    #print('before strip():' + text)
+    # print('before strip():' + text)
 
     text = (" ".join(text.split())).strip()
-    #print('after strip():' + text)
+    # print('after strip():' + text)
     # split text without spaces into list of words and concatenate string in a list to a single string
     # text = ' '.join(wn.split(text))
 
     # spell check
 
-
     return text
+
 
 def read_four_types_from_csv(file_name):
     with open(file_name, mode='r', encoding="utf8") as csv_file:
@@ -107,7 +110,7 @@ def read_four_types_from_csv(file_name):
             line_count += 1
 
             if tmp in text_dict_EE.values() or tmp in text_dict_E.values() or tmp in text_dict_EF.values() or tmp in text_dict_F.values():
-                print('line_count: ' + str(line_count) + ' complexity_level: ' + row[0]  + ' text: ' + tmp)
+                print('line_count: ' + str(line_count) + ' complexity_level: ' + row[0] + ' text: ' + tmp)
                 continue
             elif row[0] == 'L-EE':
                 text_dict_EE[line_count] = tmp
@@ -121,6 +124,7 @@ def read_four_types_from_csv(file_name):
             elif row[0] == 'L-F':
                 text_dict_F[line_count] = tmp
                 complexity_dictF[line_count] = row[0]
+
 
 def process_four_csv_file(file_name):
     d = os.getcwd()
@@ -149,10 +153,11 @@ def process_four_csv_file(file_name):
     new_file_name2 = 'F_clean.csv'
     new_file_name3 = 'E_clean.csv'
     new_file_name4 = 'EE_clean.csv'
-    write_four_types_to_csv( complexity_dictEF, text_dict_EF, new_file_name1)
-    write_four_types_to_csv( complexity_dictF, text_dict_F, new_file_name2)
-    write_four_types_to_csv( complexity_dictE, text_dict_E, new_file_name3)
-    write_four_types_to_csv( complexity_dictEE, text_dict_EE, new_file_name4)
+    write_four_types_to_csv(complexity_dictEF, text_dict_EF, new_file_name1)
+    write_four_types_to_csv(complexity_dictF, text_dict_F, new_file_name2)
+    write_four_types_to_csv(complexity_dictE, text_dict_E, new_file_name3)
+    write_four_types_to_csv(complexity_dictEE, text_dict_EE, new_file_name4)
+
 
 def read_from_csv(file_name):
     with open(file_name, mode='r', encoding="utf8") as csv_file:
@@ -170,29 +175,47 @@ def read_from_csv(file_name):
             text_with_dup_dict[line_count] = tmp
             line_count += 1
 
+            label = row[2]
+            if 'Train_all_types.csv' in file_name:
+                label = row[0]
+
             # list out keys and values separately
 
-            if tmp in text_dict.values():
+            if tmp in text_dict.values() and tmp != '':
 
                 key_list = list(text_dict.keys())
                 val_list = list(text_dict.values())
                 val_index = val_list.index(tmp)
-                print('existing complexity_dict: ' + complexity_dict[key_list[val_index]] + ' text: ' + text_dict[key_list[val_index]])
-                print('duplicate complexity_level: ' + row[0] + ' text: ' + tmp)
+                print('existing complexity_dict: ' + complexity_dict[key_list[val_index]] + ' text: ' + text_dict[
+                    key_list[val_index]])
+                print('duplicate complexity_level: ' + label + ' text: ' + tmp)
                 continue
-            else:
+            elif tmp != '':
 
                 text_dict[line_count] = tmp
-                complexity_dict[line_count] = row[0]
+                if label == 'L-Resources 1' or label == 'L-Resource 1':
+                    complexity_dict[line_count] = 'L-RF'
+                elif label == 'L-Resources 2' or label == 'L-Resource 2':
+                    complexity_dict[line_count] = 'L-RS'
+                elif label == 'L-Question Level 1':
+                    complexity_dict[line_count] = 'L-QF'
+                elif label == 'L-Question Level 2':
+                    complexity_dict[line_count] = 'L-QS'
+                elif label == 'L-Insufficient':
+                    complexity_dict[line_count] = 'L-IS'
+                else:
+                    complexity_dict[line_count] = label
 
                 testimonial = TextBlob(tmp)
                 polarity_dict[line_count] = testimonial.sentiment.polarity
                 subjectivity_dict[line_count] = testimonial.sentiment.subjectivity
 
+
 def read_from_file(file_name):
-    with open(file_name,"r", encoding='utf-8') as fp:
+    with open(file_name, "r", encoding='utf-8') as fp:
         words = fp.read()
     return words
+
 
 def process_csv_file(file_name):
     d = os.getcwd()
@@ -205,14 +228,15 @@ def process_csv_file(file_name):
     print(f'---------------------{file_name}------------------------')
     print(f'Processed {len(text_dict)} lines without dups.')
     print(f'Processed {len(text_with_dup_dict)} lines with dups.')
-    new_file_name = str(file_name).split('.')[0]+'_hashes.csv'
-    write_to_hashes_csv( complexity_dict, text_dict, new_file_name)
-    new_file_name = str(file_name).split('.')[0]+'_comma.csv'
-    write_to_comma_csv( complexity_dict, text_dict, new_file_name)
+    new_file_name = str(file_name).split('.')[0] + '_hashes.csv'
+    write_to_hashes_csv(complexity_dict, text_dict, new_file_name)
+    new_file_name = str(file_name).split('.')[0] + '_comma.csv'
+    write_to_comma_csv(complexity_dict, text_dict, new_file_name)
+
 
 if __name__ == "__main__":
     d = os.getcwd()
-   # textPath = path.join(d, 'Train_KF_T.csv')
+    # textPath = path.join(d, 'Train_KF_T.csv')
     # textPath = path.join(d, 'Train_all_types_hashes.csv')
     '''
     process_csv_file('Train_KF_T copy.csv')
@@ -228,7 +252,6 @@ if __name__ == "__main__":
     process_csv_file('Train_resource.csv')
 
     # process_csv_file('light_data_v01.csv')
-
 
     '''    
     polarity_dict = {k: v for k, v in sorted(polarity_dict.items(), key=lambda item: item[1], reverse=True)}
@@ -284,7 +307,6 @@ if __name__ == "__main__":
     polarity_dict.clear()
     subjectivity_dict.clear()
     '''
-
 
 # classifier: https://textblob.readthedocs.io/en/latest/classifiers.html
 # sentiment analyzers: https://textblob.readthedocs.io/en/latest/advanced_usage.html#sentiment-analyzers
