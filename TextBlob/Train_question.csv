@@ -1,317 +1,791 @@
-﻿Label,text,Label,ID,Title,Authors,Created,Unit,Class,Subject(Thread),scientificness,,
+﻿Label,text,Label,ID,Title,Authors,Created,Unit,Class,Subject(Thread),scientificness
 L-Q,"-
 [    I need to understand are ant hills living or noliving-- ]    
-- ]",L-Question Level 1,5bb61b4b502a7223616d0e65,Della ants,Della Gonzalez,"10/4/2018, 9:53:15 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,[    I need to understand  - are ant hills alive?- ],L-Question Level 1,5bb22db6502a7223616ccbf3,are ant hills are nonlving or living,Abhay Dadhwal,"10/1/2018, 10:22:45 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,"[    I need to understand  - How Ants build Ant hills. Do they help other ants build ant hills, or do they make them all alone?- ]",L-Question Level 1,5bb61ca5502a7223616d0f2a,A question wrote by Alivia!,Alivia Attanasio,"10/4/2018, 9:59:00 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,[    I need to understand  - how did are ecosystem start- ],L-Question Level 1,5c093b3cc0c1561fdba71c48,Della ecosystem,Della Gonzalez,"12/6/2018, 10:07:39 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,[    I need to understand  - how do ants build ant hills- ],L-Question Level 1,5bb2305a502a7223616ccda7,[ant hills] by Della,Della Gonzalez,"10/1/2018, 10:34:01 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,[    I need to understand  - how we feel air but we can't see it.- ],L-Question Level 1,5bb7c5e6502a7223616d1571,build on,Jack Murphy,"10/5/2018, 4:13:26 PM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,[    I need to understand  - if a femail ant can become a queen be from eating the right food then what happes if a mail eats the right food.- ],L-Question Level 1,5bbf88b0fbfdfb5f82346d81,queen ant,Anthony Lia,"10/11/2018, 1:30:24 PM",Ecology 18-19_GES,5Tangorre,,,,
+- ]",L-QF,5bb61b4b502a7223616d0e65,Della ants,Della Gonzalez,"10/4/2018, 9:53:15 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,[    I need to understand  - are ant hills alive?- ],L-QF,5bb22db6502a7223616ccbf3,are ant hills are nonlving or living,Abhay Dadhwal,"10/1/2018, 10:22:45 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,"[    I need to understand  - How Ants build Ant hills. Do they help other ants build ant hills, or do they make them all alone?- ]",L-QF,5bb61ca5502a7223616d0f2a,A question wrote by Alivia!,Alivia Attanasio,"10/4/2018, 9:59:00 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,[    I need to understand  - how did are ecosystem start- ],L-QF,5c093b3cc0c1561fdba71c48,Della ecosystem,Della Gonzalez,"12/6/2018, 10:07:39 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,[    I need to understand  - how do ants build ant hills- ],L-QF,5bb2305a502a7223616ccda7,[ant hills] by Della,Della Gonzalez,"10/1/2018, 10:34:01 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,[    I need to understand  - how we feel air but we can't see it.- ],L-QF,5bb7c5e6502a7223616d1571,build on,Jack Murphy,"10/5/2018, 4:13:26 PM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,[    I need to understand  - if a femail ant can become a queen be from eating the right food then what happes if a mail eats the right food.- ],L-QF,5bbf88b0fbfdfb5f82346d81,queen ant,Anthony Lia,"10/11/2018, 1:30:24 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"[    I need to understand  - if the sun is so far away, how can we still feel the hotness of the sun?- ]    
-- - ]",L-Question Level 1,5bbbc8be502a7223616d300c,idea of the sun by srimukha c.,Srimukha Chanubala,"10/8/2018, 5:14:40 PM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,[    I need to understand  - that what is the thing that makes the air push on our body? - ],L-Question Level 1,5baad6f2502a7223616cb4ed,building on,Srimukha Chanubala,"9/25/2018, 8:46:52 PM",Ecology 18-19_GES,5Gagnonagnon,,,,
+- - ]",L-QF,5bbbc8be502a7223616d300c,idea of the sun by srimukha c.,Srimukha Chanubala,"10/8/2018, 5:14:40 PM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,[    I need to understand  - that what is the thing that makes the air push on our body? - ],L-QF,5baad6f2502a7223616cb4ed,building on,Srimukha Chanubala,"9/25/2018, 8:46:52 PM",Ecology 18-19_GES,5Gagnonagnon,,
 L-Q,"[    I need to understand  - the evidence of how moss is fuzzy
 [    My theory  - - ]    
-- ]",L-Question Level 1,5baa3cb1502a7223616cadf5,brandon MOSS!,Brandon La,"9/25/2018, 9:48:33 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,[    I need to understand  - what is the yellow tanish stuff that kind of looks like roots or ginger. so I smelled    it and it smelled like fresh grass and kind of like garlic- ],L-Question Level 1,5ba8f929502a7223616c7554,what is the yellow tan stuff in the ground,Brenna Stephens,"9/24/2018, 10:48:09 AM",Ecology 18-19_GES,5Kenyonnyon,,,,
-L-Q,[    I need to understand  - why we are not able to see air we feel it why can't we see it- ],L-Question Level 1,5baa85cb502a7223616cb22c,why can't we see air,Jack Murphy,"9/25/2018, 3:00:26 PM",Ecology 18-19_GES,5Murphyurphy,,,,
+- ]",L-QF,5baa3cb1502a7223616cadf5,brandon MOSS!,Brandon La,"9/25/2018, 9:48:33 AM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,[    I need to understand  - what is the yellow tanish stuff that kind of looks like roots or ginger. so I smelled    it and it smelled like fresh grass and kind of like garlic- ],L-QF,5ba8f929502a7223616c7554,what is the yellow tan stuff in the ground,Brenna Stephens,"9/24/2018, 10:48:09 AM",Ecology 18-19_GES,5Kenyonnyon,,
+L-Q,[    I need to understand  - why we are not able to see air we feel it why can't we see it- ],L-QF,5baa85cb502a7223616cb22c,why can't we see air,Jack Murphy,"9/25/2018, 3:00:26 PM",Ecology 18-19_GES,5Murphyurphy,,
 L-Q,"[    I need to understand ""why Do Some Catepillars Have Fur Kind OF Suff?"" (
 Image -> https://kf6.rit.albany.edu//manual_assets/kf4images/icon-note-unread-othr-.gif
 ""My Wondering. BY SHREYAS SRIVASTAV"" (Link->contribution/5bb64dcb502a7223616d129e)
-by Shreyas Srivastav) -- ]",L-Question Level 1,5bb64dcb502a7223616d129e,My Wondering. BY SHREYAS SRIVASTAV,Shreyas Srivastav,"10/4/2018, 1:28:43 PM",Ecology 18-19_GES,5Tangorre,,,,
-L-Q,Are ornamental grasses found all over the world ? 😐,L-Question Level 1,5c093bc2c0c1561fdba71c71,Ornamental grasses,Owain Paton,"12/6/2018, 10:09:54 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,Did you know that there is a Queen ant?,L-Question Level 1,5bbf5731fbfdfb5f82346ca7,A did you know question wrote by Alivia!,Alivia Attanasio,"10/11/2018, 9:59:12 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,Do ants have Love?♡,L-Question Level 1,5c055233c0c1561fdba7051b,Love♡?,Camryn Miller,"12/3/2018, 10:56:35 AM",Ecology 18-19_GES,5Kenyonnyon,,,,
-L-Q,do ants sleep? do they go into hibernation?,L-Question Level 1,5c096bbfc0c1561fdba71e7b,Ants,Valentina Bonacci,"12/6/2018, 1:34:38 PM",Ecology 18-19_GES,5Tangorre,,,,
-L-Q,Do plants eat sunlight?,L-Question Level 1,5bc4a628fbfdfb5f8234766a,Sunlight,Owain Paton,"10/15/2018, 10:37:26 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,"do venomous, and poisonous animals eat each other? if they do, do they still live?",L-Question Level 1,5bd31446e196dc4872d32854,do venomous and poisonous eat each other?,Arham Farhan,"10/26/2018, 9:19:01 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,does weather do anything to the ecosyestems?,L-Question Level 1,5bcde1dfe196dc4872d2cc1b,weather,Annabella DeFranza,"10/22/2018, 10:42:37 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,Dose anyone have any good experaments??☺,L-Question Level 1,5c055142c0c1561fdba7049e,experaments??,Camryn Miller,"12/3/2018, 10:52:34 AM",Ecology 18-19_GES,5Kenyonnyon,,,,
-L-Q,How are animals so social and work together? What are their strategies?,L-Question Level 1,5bb22bcb502a7223616ccbb1,How are animals so social?,Lucy Steindler,"10/1/2018, 10:14:34 AM",Ecology 18-19_GES,5Murphy,,,,
-L-Q,how deos moss/plants eat thier food,L-Question Level 1,5beae2f44527904360bbd486,Qesion,Jahan Trivedi,"11/13/2018, 9:42:59 AM",Ecology 18-19_GES,5Gagnon,,,,
-L-Q,HoW dId YoU gEt ThIs?,L-Question Level 1,5c0ea5cdc0c1561fdba72c79,To DyLaN,Anthony Bornt,"12/10/2018, 12:43:40 PM",Ecology 18-19_GES,5Tangorre,,,,
-L-Q,How do animals get into the court yard,L-Question Level 1,5bcf204ae196dc4872d2fa13,Weird question,Brydie Kelley,"10/23/2018, 9:21:13 AM",Ecology 18-19_GES,5Gagnon,,,,
-L-Q,how do ants build ant hills or do other anamils build ?,L-Question Level 1,5bb61bd0502a7223616d0ee9,ant hills-Bill Byrnes,Williamdaniel Byrnes,"10/4/2018, 9:55:27 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,how do spiders climd walls,L-Question Level 1,5bb2a976502a7223616cd4c4,spiders,Noah Webster,"10/1/2018, 7:10:46 PM",Ecology 18-19_GES,5Tangorre,,,,
-L-Q,how do spiders spin weds,L-Question Level 1,5c096813c0c1561fdba71d4d,noah webster how do spiders spin weds,Noah Webster,"12/6/2018, 1:18:58 PM",Ecology 18-19_GES,5Tangorre,,,,
-L-Q,How do the rocks get into our courtyard,L-Question Level 1,5ba8f801502a7223616c737f,How do rocks get there?,Isabella LaFave,"9/24/2018, 10:43:11 AM",Ecology 18-19_GES,5Murphyurphy,,,,
+by Shreyas Srivastav) -- ]",L-QF,5bb64dcb502a7223616d129e,My Wondering. BY SHREYAS SRIVASTAV,Shreyas Srivastav,"10/4/2018, 1:28:43 PM",Ecology 18-19_GES,5Tangorre,,
+L-Q,Are ornamental grasses found all over the world ? 😐,L-QF,5c093bc2c0c1561fdba71c71,Ornamental grasses,Owain Paton,"12/6/2018, 10:09:54 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,Did you know that there is a Queen ant?,L-QF,5bbf5731fbfdfb5f82346ca7,A did you know question wrote by Alivia!,Alivia Attanasio,"10/11/2018, 9:59:12 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,Do ants have Love?♡,L-QF,5c055233c0c1561fdba7051b,Love♡?,Camryn Miller,"12/3/2018, 10:56:35 AM",Ecology 18-19_GES,5Kenyonnyon,,
+L-Q,do ants sleep? do they go into hibernation?,L-QF,5c096bbfc0c1561fdba71e7b,Ants,Valentina Bonacci,"12/6/2018, 1:34:38 PM",Ecology 18-19_GES,5Tangorre,,
+L-Q,Do plants eat sunlight?,L-QF,5bc4a628fbfdfb5f8234766a,Sunlight,Owain Paton,"10/15/2018, 10:37:26 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,"do venomous, and poisonous animals eat each other? if they do, do they still live?",L-QF,5bd31446e196dc4872d32854,do venomous and poisonous eat each other?,Arham Farhan,"10/26/2018, 9:19:01 AM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,does weather do anything to the ecosyestems?,L-QF,5bcde1dfe196dc4872d2cc1b,weather,Annabella DeFranza,"10/22/2018, 10:42:37 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,Dose anyone have any good experaments??☺,L-QF,5c055142c0c1561fdba7049e,experaments??,Camryn Miller,"12/3/2018, 10:52:34 AM",Ecology 18-19_GES,5Kenyonnyon,,
+L-Q,How are animals so social and work together? What are their strategies?,L-QF,5bb22bcb502a7223616ccbb1,How are animals so social?,Lucy Steindler,"10/1/2018, 10:14:34 AM",Ecology 18-19_GES,5Murphy,,
+L-Q,how deos moss/plants eat thier food,L-QF,5beae2f44527904360bbd486,Qesion,Jahan Trivedi,"11/13/2018, 9:42:59 AM",Ecology 18-19_GES,5Gagnon,,
+L-Q,HoW dId YoU gEt ThIs?,L-QF,5c0ea5cdc0c1561fdba72c79,To DyLaN,Anthony Bornt,"12/10/2018, 12:43:40 PM",Ecology 18-19_GES,5Tangorre,,
+L-Q,How do animals get into the court yard,L-QF,5bcf204ae196dc4872d2fa13,Weird question,Brydie Kelley,"10/23/2018, 9:21:13 AM",Ecology 18-19_GES,5Gagnon,,
+L-Q,how do ants build ant hills or do other anamils build ?,L-QF,5bb61bd0502a7223616d0ee9,ant hills-Bill Byrnes,Williamdaniel Byrnes,"10/4/2018, 9:55:27 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,how do spiders climd walls,L-QF,5bb2a976502a7223616cd4c4,spiders,Noah Webster,"10/1/2018, 7:10:46 PM",Ecology 18-19_GES,5Tangorre,,
+L-Q,how do spiders spin weds,L-QF,5c096813c0c1561fdba71d4d,noah webster how do spiders spin weds,Noah Webster,"12/6/2018, 1:18:58 PM",Ecology 18-19_GES,5Tangorre,,
+L-Q,How do the rocks get into our courtyard,L-QF,5ba8f801502a7223616c737f,How do rocks get there?,Isabella LaFave,"9/24/2018, 10:43:11 AM",Ecology 18-19_GES,5Murphyurphy,,
 L-Q,"How do tree's grow why does it need water and sunlight.
-how many days does it take for a tree to grow. Does it matter if its a different type of tree",L-Question Level 1,5ba91708502a7223616c7a27,How long does it take to grow a full grown tree?,Gopika Thaliyakkattil,"9/24/2018, 12:55:35 PM",Ecology 18-19_GES,5Tangorre,,,,
-L-Q,How Does air poulition effect people??,L-Question Level 1,5bf2d3017e20b918b8c60fc4,Air polution,Isabella LaFave,"11/19/2018, 10:13:05 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,How does sunlight help living things?,L-Question Level 1,5bcddd02e196dc4872d2c978,Sunlight,Owain Paton,"10/22/2018, 10:21:53 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,How does the white soil interact with plants,L-Question Level 1,5baa398b502a7223616ca9de,white soil,Amber Khan,"9/25/2018, 9:35:01 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,how dose the sun help and what dose it do to hel our eco sistme,L-Question Level 1,5bcde10be196dc4872d2cba7,sun,Ilhaam Ullah,"10/22/2018, 10:39:06 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,How long can a Queen bee live?,L-Question Level 1,5bcde0dbe196dc4872d2cb49,Bees live,Tyler Manning,"10/22/2018, 10:38:18 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,how long can bees live in there lifetime.,L-Question Level 1,5ba8f765502a7223616c7304,how long do bees live,Williamdaniel Byrnes,"9/24/2018, 10:40:34 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,How long do ants live?,L-Question Level 1,5bcdad41e196dc4872d2c6d2,ants,Owain Paton,"10/22/2018, 6:58:08 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,How was white soil created?,L-Question Level 1,5bd85b1c6d2ce8626e2cac60,build on,Emily Maguire,"10/30/2018, 9:22:35 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,i DEFINITEY AGREE with this. But are they strong enough too crush 10? Or MORE?,L-Question Level 1,5bb61e2e502a7223616d0fa2,Building on to Williams statement,Lucy Steindler,"10/4/2018, 10:05:34 AM",Ecology 18-19_GES,5Murphy,,,,
-L-Q,I have a new theroy about how ants build their houses. I think they could possibaly push sand/mud/dirt to were they want the anthills.,L-Question Level 1,5bb61b86502a7223616d0eb3,how do ants build their houses Delaney Carr [anthills],Delaney Carr,"10/4/2018, 9:54:14 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,i wonder how they get the blood out,L-Question Level 1,5bb22f40502a7223616cccbc,mosquito,Isabella LaFave,"10/1/2018, 10:29:19 AM",Ecology 18-19_GES,5Murphyurphy,,,,
+how many days does it take for a tree to grow. Does it matter if its a different type of tree",L-QF,5ba91708502a7223616c7a27,How long does it take to grow a full grown tree?,Gopika Thaliyakkattil,"9/24/2018, 12:55:35 PM",Ecology 18-19_GES,5Tangorre,,
+L-Q,How Does air poulition effect people??,L-QF,5bf2d3017e20b918b8c60fc4,Air polution,Isabella LaFave,"11/19/2018, 10:13:05 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,How does sunlight help living things?,L-QF,5bcddd02e196dc4872d2c978,Sunlight,Owain Paton,"10/22/2018, 10:21:53 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,How does the white soil interact with plants,L-QF,5baa398b502a7223616ca9de,white soil,Amber Khan,"9/25/2018, 9:35:01 AM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,how dose the sun help and what dose it do to hel our eco sistme,L-QF,5bcde10be196dc4872d2cba7,sun,Ilhaam Ullah,"10/22/2018, 10:39:06 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,How long can a Queen bee live?,L-QF,5bcde0dbe196dc4872d2cb49,Bees live,Tyler Manning,"10/22/2018, 10:38:18 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,how long can bees live in there lifetime.,L-QF,5ba8f765502a7223616c7304,how long do bees live,Williamdaniel Byrnes,"9/24/2018, 10:40:34 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,How long do ants live?,L-QF,5bcdad41e196dc4872d2c6d2,ants,Owain Paton,"10/22/2018, 6:58:08 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,How was white soil created?,L-QF,5bd85b1c6d2ce8626e2cac60,build on,Emily Maguire,"10/30/2018, 9:22:35 AM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,i DEFINITEY AGREE with this. But are they strong enough too crush 10? Or MORE?,L-QF,5bb61e2e502a7223616d0fa2,Building on to Williams statement,Lucy Steindler,"10/4/2018, 10:05:34 AM",Ecology 18-19_GES,5Murphy,,
+L-Q,I have a new theroy about how ants build their houses. I think they could possibaly push sand/mud/dirt to were they want the anthills.,L-QF,5bb61b86502a7223616d0eb3,how do ants build their houses Delaney Carr [anthills],Delaney Carr,"10/4/2018, 9:54:14 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,i wonder how they get the blood out,L-QF,5bb22f40502a7223616cccbc,mosquito,Isabella LaFave,"10/1/2018, 10:29:19 AM",Ecology 18-19_GES,5Murphyurphy,,
 L-Q,"I wonder if a big flower like a sunflower can grow in a small space
 from sienna
-[    My theory  - is no it cant- ]",L-Question Level 1,5bd200ace196dc4872d32153,I wonder if a big flower can grow in a small space sienna,Sienna Schuller,"10/25/2018, 1:43:06 PM",Ecology 18-19_GES,5Tangorre,,,,
+[    My theory  - is no it cant- ]",L-QF,5bd200ace196dc4872d32153,I wonder if a big flower can grow in a small space sienna,Sienna Schuller,"10/25/2018, 1:43:06 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"I'm learning about the diffrence between air.
-Does the air in the Adirondack Mountains have more or less carbon dixoide then the air in NYC?",L-Question Level 1,5c096ce2c0c1561fdba71f24,AIR,Valentina Bonacci,"12/6/2018, 1:39:30 PM",Ecology 18-19_GES,5Tangorre,,,,
-L-Q,I'm wondering if some stomich acids are emzins?(yes I know I spelled that wrong),L-Question Level 1,5c311c9de47fdc42e024db2a,I don't know where the human body is so I'm doing it her,Annabella DeFranza,"1/5/2019, 4:07:36 PM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,If animals don't change their fur for the season then what will happen?,L-Question Level 1,5baa3aa2502a7223616caa28,Animals fur,Hussain Chaudhry,"9/25/2018, 9:39:45 AM",Ecology 18-19_GES,5Gagnon,,,,
-L-Q,if the animals in the GES courtyard had a harsh Storm that flooded the area how would the survive?,L-Question Level 1,5ba8f96e502a7223616c7568,GES courtyard animals!,Arushi Ramayanam,"9/24/2018, 10:49:16 AM",Ecology 18-19_GES,5Kenyonnyon,,,,
-L-Q,If you put Carbon Dioxid in a cup with a plant you know it will go back to blue but if you dont Put a plant in will it still go back to Blue????,L-Question Level 1,5c0e9016c0c1561fdba72a34,experament,Camryn Miller,"12/10/2018, 11:11:01 AM",Ecology 18-19_GES,5Kenyonnyon,,,,
-L-Q,im lerning aboute the pine barrens in guilderland. and how dose the prescribed burns help the pine barrens?,L-Question Level 1,5c093b17c0c1561fdba71c3e,pine barrens?,Ilhaam Ullah,"12/6/2018, 10:07:03 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,im wondering how frogs\todes live in this environment pluse how do thise tad poles live here and what wants them to live here. mabey they think this is a miny lake.,L-Question Level 1,5bb22f88502a7223616ccd43,frog,Ilhaam Ullah,"10/1/2018, 10:30:31 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,In the court yard the apple tree is tilted did it gorw like that?,L-Question Level 1,5ba8f85c502a7223616c7440,How do trees grow ood,Tyler Manning,"9/24/2018, 10:44:44 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,In the courtyard why is the apple tree tilted or did grow tilted?,L-Question Level 1,5ba8f7e4502a7223616c7379,How trees grow ood,Tyler Manning,"9/24/2018, 10:42:44 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,is bateria an animal?,L-Question Level 1,5bc4a5e2fbfdfb5f82347659,animals,Annabella DeFranza,"10/15/2018, 10:36:17 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,My first question was why are some plants bad to touch? But my question now is... If some plants are good to touch and eat then why are some plants poisionous.,L-Question Level 1,5baa3ace502a7223616caa91,Good plants and poisionous,MaddieJane Davis,"9/25/2018, 9:40:30 AM",Ecology 18-19_GES,5Gagnon,,,,
-L-Q,so i am wondering how photosythesis works and really what it is? hopefully i can get back to you guys on that.,L-Question Level 1,5bed8a537e20b918b8c60275,Bill Byrnes how does photosythesis work?,Williamdaniel Byrnes,"11/15/2018, 10:01:39 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,wacht thishttps://www.youtube.com/watch?v=J0DT_Te0xZ4,L-Question Level 1,5bcde74ae196dc4872d2cede,ants,Camryn Miller,"10/22/2018, 11:05:45 AM",Ecology 18-19_GES,5Kenyonnyon,,,,
-L-Q,Was metal once living?,L-Question Level 1,5bb65f87502a7223616d1379,metal,Owain Paton,"10/4/2018, 2:44:25 PM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,were do the ants get woter from uder grawnd.???,L-Question Level 1,5bc0a11bfbfdfb5f82346f5e,ants,Giovanni Futia,"10/12/2018, 9:26:50 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,What animals live in the court yard?,L-Question Level 1,5ba968c5502a7223616c7d1f,Different animals,Annabella DeFranza,"9/24/2018, 6:44:16 PM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,what are ornamental grasses?,L-Question Level 1,5c0967f4c0c1561fdba71d3c,ornamental grasses,Dylan Nolan,"12/6/2018, 1:18:28 PM",Ecology 18-19_GES,5Tangorre,,,,
-L-Q,What can we do to be able to see air?,L-Question Level 1,5baaa02f502a7223616cb2b2,air Jahan,Jahan Trivedi,"9/25/2018, 4:53:03 PM",Ecology 18-19_GES,5Gagnon,,,,
-L-Q,What can we do to see the air?,L-Question Level 1,5baa3cdf502a7223616cae0c,all about air By:Jahan Trivedi,Jahan Trivedi,"9/25/2018, 9:49:18 AM",Ecology 18-19_GES,5Gagnon,,,,
-L-Q,What can we infer the stuff that pushes the air on our faces on windy days!!!!!!!!,L-Question Level 1,5baa3957502a7223616ca9a7,Air!,Emily Rosen,"9/25/2018, 9:34:07 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,what causes the poison ivy to interact with humans and create a rash????????,L-Question Level 1,5baad587502a7223616cb4d4,poison ivy by srimukha c.,Srimukha Chanubala,"9/25/2018, 8:40:49 PM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,what evidence do we have how air is invisboll.,L-Question Level 1,5baa3b03502a7223616cab35,am i blind because i can't see air??,Giovanni Futia,"9/25/2018, 9:41:22 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,What evidence dose the worm home so sandy,L-Question Level 1,5baa3af8502a7223616cab1c,worms homes,Kyla Katz,"9/25/2018, 9:41:12 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,"what evidence is there, that there are dangerous animals out in the wild, near our area?",L-Question Level 1,5bad805a502a7223616cc255,what dangerous animals are there?,Arham Farhan,"9/27/2018, 9:14:01 PM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,What type of trees have small red berries on it,L-Question Level 1,5bc3f7cafbfdfb5f82347435,Tree,Isabella LaFave,"10/14/2018, 10:13:30 PM",Ecology 18-19_GES,5Murphyurphy,,,,
+Does the air in the Adirondack Mountains have more or less carbon dixoide then the air in NYC?",L-QF,5c096ce2c0c1561fdba71f24,AIR,Valentina Bonacci,"12/6/2018, 1:39:30 PM",Ecology 18-19_GES,5Tangorre,,
+L-Q,I'm wondering if some stomich acids are emzins?(yes I know I spelled that wrong),L-QF,5c311c9de47fdc42e024db2a,I don't know where the human body is so I'm doing it her,Annabella DeFranza,"1/5/2019, 4:07:36 PM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,If animals don't change their fur for the season then what will happen?,L-QF,5baa3aa2502a7223616caa28,Animals fur,Hussain Chaudhry,"9/25/2018, 9:39:45 AM",Ecology 18-19_GES,5Gagnon,,
+L-Q,if the animals in the GES courtyard had a harsh Storm that flooded the area how would the survive?,L-QF,5ba8f96e502a7223616c7568,GES courtyard animals!,Arushi Ramayanam,"9/24/2018, 10:49:16 AM",Ecology 18-19_GES,5Kenyonnyon,,
+L-Q,If you put Carbon Dioxid in a cup with a plant you know it will go back to blue but if you dont Put a plant in will it still go back to Blue????,L-QF,5c0e9016c0c1561fdba72a34,experament,Camryn Miller,"12/10/2018, 11:11:01 AM",Ecology 18-19_GES,5Kenyonnyon,,
+L-Q,im lerning aboute the pine barrens in guilderland. and how dose the prescribed burns help the pine barrens?,L-QF,5c093b17c0c1561fdba71c3e,pine barrens?,Ilhaam Ullah,"12/6/2018, 10:07:03 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,im wondering how frogs\todes live in this environment pluse how do thise tad poles live here and what wants them to live here. mabey they think this is a miny lake.,L-QF,5bb22f88502a7223616ccd43,frog,Ilhaam Ullah,"10/1/2018, 10:30:31 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,In the court yard the apple tree is tilted did it gorw like that?,L-QF,5ba8f85c502a7223616c7440,How do trees grow ood,Tyler Manning,"9/24/2018, 10:44:44 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,In the courtyard why is the apple tree tilted or did grow tilted?,L-QF,5ba8f7e4502a7223616c7379,How trees grow ood,Tyler Manning,"9/24/2018, 10:42:44 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,is bateria an animal?,L-QF,5bc4a5e2fbfdfb5f82347659,animals,Annabella DeFranza,"10/15/2018, 10:36:17 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,My first question was why are some plants bad to touch? But my question now is... If some plants are good to touch and eat then why are some plants poisionous.,L-QF,5baa3ace502a7223616caa91,Good plants and poisionous,MaddieJane Davis,"9/25/2018, 9:40:30 AM",Ecology 18-19_GES,5Gagnon,,
+L-Q,so i am wondering how photosythesis works and really what it is? hopefully i can get back to you guys on that.,L-QF,5bed8a537e20b918b8c60275,Bill Byrnes how does photosythesis work?,Williamdaniel Byrnes,"11/15/2018, 10:01:39 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,wacht thishttps://www.youtube.com/watch?v=J0DT_Te0xZ4,L-QF,5bcde74ae196dc4872d2cede,ants,Camryn Miller,"10/22/2018, 11:05:45 AM",Ecology 18-19_GES,5Kenyonnyon,,
+L-Q,Was metal once living?,L-QF,5bb65f87502a7223616d1379,metal,Owain Paton,"10/4/2018, 2:44:25 PM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,were do the ants get woter from uder grawnd.???,L-QF,5bc0a11bfbfdfb5f82346f5e,ants,Giovanni Futia,"10/12/2018, 9:26:50 AM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,What animals live in the court yard?,L-QF,5ba968c5502a7223616c7d1f,Different animals,Annabella DeFranza,"9/24/2018, 6:44:16 PM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,what are ornamental grasses?,L-QF,5c0967f4c0c1561fdba71d3c,ornamental grasses,Dylan Nolan,"12/6/2018, 1:18:28 PM",Ecology 18-19_GES,5Tangorre,,
+L-Q,What can we do to be able to see air?,L-QF,5baaa02f502a7223616cb2b2,air Jahan,Jahan Trivedi,"9/25/2018, 4:53:03 PM",Ecology 18-19_GES,5Gagnon,,
+L-Q,What can we do to see the air?,L-QF,5baa3cdf502a7223616cae0c,all about air By:Jahan Trivedi,Jahan Trivedi,"9/25/2018, 9:49:18 AM",Ecology 18-19_GES,5Gagnon,,
+L-Q,What can we infer the stuff that pushes the air on our faces on windy days!!!!!!!!,L-QF,5baa3957502a7223616ca9a7,Air!,Emily Rosen,"9/25/2018, 9:34:07 AM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,what causes the poison ivy to interact with humans and create a rash????????,L-QF,5baad587502a7223616cb4d4,poison ivy by srimukha c.,Srimukha Chanubala,"9/25/2018, 8:40:49 PM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,what evidence do we have how air is invisboll.,L-QF,5baa3b03502a7223616cab35,am i blind because i can't see air??,Giovanni Futia,"9/25/2018, 9:41:22 AM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,What evidence dose the worm home so sandy,L-QF,5baa3af8502a7223616cab1c,worms homes,Kyla Katz,"9/25/2018, 9:41:12 AM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,"what evidence is there, that there are dangerous animals out in the wild, near our area?",L-QF,5bad805a502a7223616cc255,what dangerous animals are there?,Arham Farhan,"9/27/2018, 9:14:01 PM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,What type of trees have small red berries on it,L-QF,5bc3f7cafbfdfb5f82347435,Tree,Isabella LaFave,"10/14/2018, 10:13:30 PM",Ecology 18-19_GES,5Murphyurphy,,
 L-Q,"When i was out in the courtyard i saw a lot of moss my question is how it got there
-[    I need to understand  -- ]",L-Question Level 1,5bb64d04502a7223616d1260,How does the moss get there?,Brian Igweike,"10/4/2018, 1:25:24 PM",Ecology 18-19_GES,5Tangorre,,,,
-L-Q,when i was walking in the courtyard i was thinking about my theory- what is the sciene behind the evolution of air?- ],L-Question Level 1,5baa3ae3502a7223616caaa4,the science behind air,Srimukha Chanubala,"9/25/2018, 9:40:51 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,where is the link?,L-Question Level 1,5c09678cc0c1561fdba71d12,where is the link,Dylan Nolan,"12/6/2018, 1:16:44 PM",Ecology 18-19_GES,5Tangorre,,,,
-L-Q,Why are worms and ants in dirt worms can move only in or near dirt and ants can come out of their ant hil,L-Question Level 1,5bc5e79ffbfdfb5f8234a5a0,why do   ants and worms  live   in dirt,Kyla Katz,"10/16/2018, 9:29:01 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,why are you talking about ants on the photosynthesis page!,L-Question Level 1,5c096844c0c1561fdba71d69,ants,Dylan Nolan,"12/6/2018, 1:19:48 PM",Ecology 18-19_GES,5Tangorre,,,,
-L-Q,Why can't Peguins fly?,L-Question Level 1,5bc3e61cfbfdfb5f823473fa,Birds by Jahan,Jahan Trivedi,"10/14/2018, 8:58:03 PM",Ecology 18-19_GES,5Gagnon,,,,
-L-Q,why did the weather get cold.why did the wather sudenly get hot then get cold,L-Question Level 1,5ba8f931502a7223616c7559,weather,Nihanth Padmi,"9/24/2018, 10:48:17 AM",Ecology 18-19_GES,5Kenyonnyon,,,,
-L-Q,Why do animals eat,L-Question Level 1,5bcf1dc6e196dc4872d2f895,Why do animals eat,Derick Sy,"10/23/2018, 9:10:29 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,why do animals hide in the bushes in the wintor ???,L-Question Level 1,5bcf1f3be196dc4872d2f9b4,why why why why  ?????,Giovanni Futia,"10/23/2018, 9:16:43 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,why do the anmolls hide in the bushes,L-Question Level 1,5bcf1eace196dc4872d2f963,why why why why why why ???????,Giovanni Futia,"10/23/2018, 9:14:20 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,why do the apples fall from the trees and then rot?,L-Question Level 1,5baac856502a7223616cb3ab,apples,Emily Rosen,"9/25/2018, 7:44:19 PM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,Why do the insects get into the bark into the tree?,L-Question Level 1,5bcdfefbe196dc4872d2d07f,Why do the insects get into the bar into the tree?,Valentina Bonacci,"10/22/2018, 12:46:50 PM",Ecology 18-19_GES,5Tangorre,,,,
+[    I need to understand  -- ]",L-QF,5bb64d04502a7223616d1260,How does the moss get there?,Brian Igweike,"10/4/2018, 1:25:24 PM",Ecology 18-19_GES,5Tangorre,,
+L-Q,when i was walking in the courtyard i was thinking about my theory- what is the sciene behind the evolution of air?- ],L-QF,5baa3ae3502a7223616caaa4,the science behind air,Srimukha Chanubala,"9/25/2018, 9:40:51 AM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,where is the link?,L-QF,5c09678cc0c1561fdba71d12,where is the link,Dylan Nolan,"12/6/2018, 1:16:44 PM",Ecology 18-19_GES,5Tangorre,,
+L-Q,Why are worms and ants in dirt worms can move only in or near dirt and ants can come out of their ant hil,L-QF,5bc5e79ffbfdfb5f8234a5a0,why do   ants and worms  live   in dirt,Kyla Katz,"10/16/2018, 9:29:01 AM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,why are you talking about ants on the photosynthesis page!,L-QF,5c096844c0c1561fdba71d69,ants,Dylan Nolan,"12/6/2018, 1:19:48 PM",Ecology 18-19_GES,5Tangorre,,
+L-Q,Why can't Peguins fly?,L-QF,5bc3e61cfbfdfb5f823473fa,Birds by Jahan,Jahan Trivedi,"10/14/2018, 8:58:03 PM",Ecology 18-19_GES,5Gagnon,,
+L-Q,why did the weather get cold.why did the wather sudenly get hot then get cold,L-QF,5ba8f931502a7223616c7559,weather,Nihanth Padmi,"9/24/2018, 10:48:17 AM",Ecology 18-19_GES,5Kenyonnyon,,
+L-Q,Why do animals eat,L-QF,5bcf1dc6e196dc4872d2f895,Why do animals eat,Derick Sy,"10/23/2018, 9:10:29 AM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,why do animals hide in the bushes in the wintor ???,L-QF,5bcf1f3be196dc4872d2f9b4,why why why why  ?????,Giovanni Futia,"10/23/2018, 9:16:43 AM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,why do the anmolls hide in the bushes,L-QF,5bcf1eace196dc4872d2f963,why why why why why why ???????,Giovanni Futia,"10/23/2018, 9:14:20 AM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,why do the apples fall from the trees and then rot?,L-QF,5baac856502a7223616cb3ab,apples,Emily Rosen,"9/25/2018, 7:44:19 PM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,Why do the insects get into the bark into the tree?,L-QF,5bcdfefbe196dc4872d2d07f,Why do the insects get into the bar into the tree?,Valentina Bonacci,"10/22/2018, 12:46:50 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"why do things rot
-things rot because when you peel a orange the air efects the orange",L-Question Level 1,5bcde052e196dc4872d2caf7,why do things rot,Brenna Stephens,"10/22/2018, 10:36:01 AM",Ecology 18-19_GES,5Kenyonnyon,,,,
-L-Q,why do you have to do a controlled fire when you can just cut the plants down,L-Question Level 1,5c0968cfc0c1561fdba71da0,why burn,Gavin Fung,"12/6/2018, 1:22:06 PM",Ecology 18-19_GES,5Tangorre,,,,
-L-Q,Why does moss provide a good home for insects,L-Question Level 1,5baa3a18502a7223616ca9ec,insects homes,Derick Sy,"9/25/2018, 9:37:27 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
+things rot because when you peel a orange the air efects the orange",L-QF,5bcde052e196dc4872d2caf7,why do things rot,Brenna Stephens,"10/22/2018, 10:36:01 AM",Ecology 18-19_GES,5Kenyonnyon,,
+L-Q,why do you have to do a controlled fire when you can just cut the plants down,L-QF,5c0968cfc0c1561fdba71da0,why burn,Gavin Fung,"12/6/2018, 1:22:06 PM",Ecology 18-19_GES,5Tangorre,,
+L-Q,Why does moss provide a good home for insects,L-QF,5baa3a18502a7223616ca9ec,insects homes,Derick Sy,"9/25/2018, 9:37:27 AM",Ecology 18-19_GES,5Gagnonagnon,,
 L-Q,"(I'm talking about the stem, not the flower, like a rose.)
 [    My theory  - is that it stings the predator trying to eat it. But I think it's impossible.- ]    
-[    I need to understand  - Why does it have THORNS? Do they Sting? Do they do nothng at all? Are they WORTHLESS?- ]",L-Question Level 2,5ba91805502a7223616c7ae0,(Flowers) Why does some flowers have some type of Thorns on it?,Anthony Bornt,"9/24/2018, 12:59:49 PM",Ecology 18-19_GES,5Tangorre,,,,
+[    I need to understand  - Why does it have THORNS? Do they Sting? Do they do nothng at all? Are they WORTHLESS?- ]",L-QS,5ba91805502a7223616c7ae0,(Flowers) Why does some flowers have some type of Thorns on it?,Anthony Bornt,"9/24/2018, 12:59:49 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"[    I need to understand  - how worms move in the soil.- ]    
-[    My theory  - is that they move similarly to a snake, they kind of move like slinking around in the soil.- ]",L-Question Level 2,5bcde1e1e196dc4872d2cc23,how do worms move in the soil?,Graham Clarke,"10/22/2018, 10:42:40 AM",Ecology 18-19_GES,5Kenyonnyon,,,,
+[    My theory  - is that they move similarly to a snake, they kind of move like slinking around in the soil.- ]",L-QS,5bcde1e1e196dc4872d2cc23,how do worms move in the soil?,Graham Clarke,"10/22/2018, 10:42:40 AM",Ecology 18-19_GES,5Kenyonnyon,,
 L-Q,"[    I need to understand  - If animals live in our school cuortyard and i think animals do live in the court yard because there are alot of holes in one of the trees- ]    
-[    This theory cannot explain  - if animals live in the courtyard- ]",L-Question Level 2,5bad142e502a7223616cc003,how Do we now if  animals live in the courtyard?,Anu Yazhini Sivanesan,"9/27/2018, 1:32:30 PM",Ecology 18-19_GES,5Tangorre,,,,
+[    This theory cannot explain  - if animals live in the courtyard- ]",L-QS,5bad142e502a7223616cc003,how Do we now if  animals live in the courtyard?,Anu Yazhini Sivanesan,"9/27/2018, 1:32:30 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"[    I need to understand  - if the grass hopper is living in the courtyard because there is some nutrients from the trees or if there are hidden food supplies there- ]    
-[    This theory cannot explain  - if there is somthing that is in the court yard that makes the grasshopper want to live in te courtyard- ]",L-Question Level 2,5bb28e11502a7223616cd47a,why was a grasshopper living in the courtyard,Anu Yazhini Sivanesan,"10/1/2018, 5:13:57 PM",Ecology 18-19_GES,5Tangorre,,,,
+[    This theory cannot explain  - if there is somthing that is in the court yard that makes the grasshopper want to live in te courtyard- ]",L-QS,5bb28e11502a7223616cd47a,why was a grasshopper living in the courtyard,Anu Yazhini Sivanesan,"10/1/2018, 5:13:57 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"[    I need to understand  - What would happen if you cut off a root from a tree will it die or will it still live or will the leaves fall off the tree- ]    
-[    My theory  - I think the roots carrie nutrients - ]",L-Question Level 2,5bb6a99b502a7223616d13bb,What happens when you cut a trees root,Angelo Lubrano,"10/4/2018, 8:00:32 PM",Ecology 18-19_GES,5Tangorre,,,,
+[    My theory  - I think the roots carrie nutrients - ]",L-QS,5bb6a99b502a7223616d13bb,What happens when you cut a trees root,Angelo Lubrano,"10/4/2018, 8:00:32 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"[    I need to understand  - why moss has different colors and what it means to have all these different colors- ]    
-[    My theory  - is maybe it means it is poisonousor it means that its a different type of moss - ]",L-Question Level 2,5ba8f91f502a7223616c7549,Why is moss colors,Serena Thomas,"9/24/2018, 10:47:58 AM",Ecology 18-19_GES,5Kenyon,,,,
+[    My theory  - is maybe it means it is poisonousor it means that its a different type of moss - ]",L-QS,5ba8f91f502a7223616c7549,Why is moss colors,Serena Thomas,"9/24/2018, 10:47:58 AM",Ecology 18-19_GES,5Kenyon,,
 L-Q,"[    I need to understand  - why snakes can slither wouldn't its tail be more efficent in the water I wounder if a snake addapted when it started living on land?
 [    New Information  -is that how can snakes eat somthing bigger than them wouldn't it take weeks for something that size to be diegested so I'm woundering if snakes go into hiding and have a small hibernation.
-[    My theory  -is that mabey after alarge meal its normal to sleep to help diegest foods and liquids.",L-Question Level 2,5bd1088be196dc4872d30d51,Snakes,Langston Threatte,"10/24/2018, 8:04:27 PM",Ecology 18-19_GES,5Kenyon,,,,
+[    My theory  -is that mabey after alarge meal its normal to sleep to help diegest foods and liquids.",L-QS,5bd1088be196dc4872d30d51,Snakes,Langston Threatte,"10/24/2018, 8:04:27 PM",Ecology 18-19_GES,5Kenyon,,
 L-Q,"[    My theory  -
 [    My theory  - how do bee'shelp us human's? - ]    
-- ]     How do bees help other living things? How is pollination helpful? What is pollination?",L-Question Level 2,5bcdde34e196dc4872d2ca31,How do bee's benefit other living thing's,Arrieal Bailey,"10/22/2018, 10:26:59 AM",Ecology 18-19_GES,5Murphyurphy,,,,
+- ]     How do bees help other living things? How is pollination helpful? What is pollination?",L-QS,5bcdde34e196dc4872d2ca31,How do bee's benefit other living thing's,Arrieal Bailey,"10/22/2018, 10:26:59 AM",Ecology 18-19_GES,5Murphyurphy,,
 L-Q,"[    My theory  - is it wont grow and it will just fall down- ]    
-[    I need to understand  - if there is still sun will it grow- ]",L-Question Level 2,5ba91676502a7223616c79ec,if you cut all the roots will  the tree still grow,Gavin Fung,"9/24/2018, 12:53:09 PM",Ecology 18-19_GES,5Tangorre,,,,
+[    I need to understand  - if there is still sun will it grow- ]",L-QS,5ba91676502a7223616c79ec,if you cut all the roots will  the tree still grow,Gavin Fung,"9/24/2018, 12:53:09 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"[    My theory  - is mabye if they pertend to be deid on the berrys al the stink bugs will think he died and if they think it is deid no one will go on the berry and it can just keep sucking it- ]    
-[    I need to understand  - how they get so smart if that is the case- ]",L-Question Level 2,5bbf89c0fbfdfb5f82346df6,why are the stinkbugs on the berrys,Caela Kushner,"10/11/2018, 1:34:55 PM",Ecology 18-19_GES,5Tangorre,,,,
+[    I need to understand  - how they get so smart if that is the case- ]",L-QS,5bbf89c0fbfdfb5f82346df6,why are the stinkbugs on the berrys,Caela Kushner,"10/11/2018, 1:34:55 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"[    My theory  - is that maybe some dirt was on the brick and the moss spores may have grown from the dirt.- ]    
 I wonder if moss needs dirt to live?
 I wonder what moss needs to live?
-I think we should answer this question first.",L-Question Level 2,5bad0aac502a7223616cbe65,Moss build on by Mrs. Tangorre,Beth Tangorre,"9/27/2018, 12:51:56 PM",Ecology 18-19_GES,5Tangorre,,,,
+I think we should answer this question first.",L-QS,5bad0aac502a7223616cbe65,Moss build on by Mrs. Tangorre,Beth Tangorre,"9/27/2018, 12:51:56 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"[    My theory  - is that they are all over the berys because they are sucking the jucie out of the berys to eat- ]    
-[    I need to understand  - why some of them are not moving when they are on the berys- ]",L-Question Level 2,5bb79607502a7223616d1529,why the stink bugs are on the berys add on,Caela Kushner,"10/5/2018, 12:49:10 PM",Ecology 18-19_GES,5Tangorre,,,,
+[    I need to understand  - why some of them are not moving when they are on the berys- ]",L-QS,5bb79607502a7223616d1529,why the stink bugs are on the berys add on,Caela Kushner,"10/5/2018, 12:49:10 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"[    My theory  - is that they would stilll walk.- ]    
 But...
 [    I need to understand  - How long a spider would live for. Would it live for a minute? A few seconds? An Hour? A day? An average spider life?- ]    
-[    New Information  - Some have 6 legs...- ]",L-Question Level 2,5bb64e2f502a7223616d12c5,"If a spider would have six legs, will it still walk? If it walks, how long will it live?",Anthony Bornt,"10/4/2018, 1:30:22 PM",Ecology 18-19_GES,5Tangorre,,,,
+[    New Information  - Some have 6 legs...- ]",L-QS,5bb64e2f502a7223616d12c5,"If a spider would have six legs, will it still walk? If it walks, how long will it live?",Anthony Bornt,"10/4/2018, 1:30:22 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"[    My theory  - is: the beetle has 2 colors for camoflouge- ]    
 [    This theory cannot explain  - why the brown side has designs - ]    
-[    I need to understand  - why the beetle has 2 colors and designson the top - ]",L-Question Level 2,5ba91772502a7223616c7a7e,Why does the 2 - colored beetle have 2 colors,Dylan Nolan,"9/24/2018, 12:57:21 PM",Ecology 18-19_GES,5Tangorre,,,,
+[    I need to understand  - why the beetle has 2 colors and designson the top - ]",L-QS,5ba91772502a7223616c7a7e,Why does the 2 - colored beetle have 2 colors,Dylan Nolan,"9/24/2018, 12:57:21 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"[    My theory  - isthat i found out how decomposers get were they need to go . They travel in the air like little particals in the dirt but a little diffrent .
-[    I need to understand how the decomposers give use and animales rotten food . Like do they giv off like a smell to the food.",L-Question Level 2,5bd3151fe196dc4872d32861,decomposers,Logan Nates-McCabe,"10/26/2018, 9:22:37 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
+[    I need to understand how the decomposers give use and animales rotten food . Like do they giv off like a smell to the food.",L-QS,5bd3151fe196dc4872d32861,decomposers,Logan Nates-McCabe,"10/26/2018, 9:22:37 AM",Ecology 18-19_GES,5Gagnonagnon,,
 L-Q,"[    New Information  - I read on World Almanac that briophytes are actually a type of moss. However, I read on wikipedia that briophytes are a plant. Is it both?- ]    
 [    I need to understand  - which is true or are both true? Why? What makes something a plant or a moss?- ]    
 Briophytes don't grow seeds.
-http://wak.infobaselearning.com/plants/seedless-plants/diversity-of-mosses.aspx?qHL=bryophytes",L-Question Level 2,5bb22d5c502a7223616ccbe2,New Information from world almanac.,Beth Tangorre,"10/1/2018, 10:21:16 AM",Ecology 18-19_GES,5Tangorre,,,,
+http://wak.infobaselearning.com/plants/seedless-plants/diversity-of-mosses.aspx?qHL=bryophytes",L-QS,5bb22d5c502a7223616ccbe2,New Information from world almanac.,Beth Tangorre,"10/1/2018, 10:21:16 AM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"[    New Information  -there are diffrent types of moss such asiron moss wich will only grow on thigs with heavy amounts of iron on it- ]    
 [    I need to understand  - How do moss get on things like on Trees, grass, Benches and the cement and on the door and the wall.
-[    My theory  - I think that it was made by Rain and old or dry grass.- ]",L-Question Level 2,5bb24c80502a7223616cd1af,How does moss grow? By Angelo,Angelo Lubrano,"10/1/2018, 12:34:08 PM",Ecology 18-19_GES,5Tangorre,,,,
+[    My theory  - I think that it was made by Rain and old or dry grass.- ]",L-QS,5bb24c80502a7223616cd1af,How does moss grow? By Angelo,Angelo Lubrano,"10/1/2018, 12:34:08 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"[    Putting our knowledge together  - I know from studying air that warm air rises.
 but
 [    I need to understand  - why its cold in the mountain tops if heat rises?
 [    My theory  - is that the warm air is even higher up than the peak of a mountain.
 [    This theory cannot explain  - the constaint warm air rissing.
 or dose it cool off before reaching the hight of a mountain?Again
-[    This theory cannot explain  - the wourld wide problem of gloabelwarming. How dose the warm air rise high enough?",L-Question Level 2,5bd2593de196dc4872d32663,Mountains,Langston Threatte,"10/25/2018, 8:00:59 PM",Ecology 18-19_GES,5Kenyon,,,,
+[    This theory cannot explain  - the wourld wide problem of gloabelwarming. How dose the warm air rise high enough?",L-QS,5bd2593de196dc4872d32663,Mountains,Langston Threatte,"10/25/2018, 8:00:59 PM",Ecology 18-19_GES,5Kenyon,,
 L-Q,"[    This theory cannot explain  - Why the catipillar will go on the trees and leaves but instead it goes on walls of our courtyard and likes that type of ecosystem but I still don't understand why? Because if the other breed of catipillars do it the same kind as the one that was in our courtyard why do these only type of catipillar like this and not the trees and leaves?- ]    
-[    I need to understand  - why a regular catipillar was liking the ecosystem of the wall? Why didn't it like the regular ecosystem that catipillars live in?- ]",L-Question Level 2,5ba91672502a7223616c79e4,Why does the catipillar like this type of ecosystem?,Ava Howe,"9/24/2018, 12:53:05 PM",Ecology 18-19_GES,5Tangorre,,,,
+[    I need to understand  - why a regular catipillar was liking the ecosystem of the wall? Why didn't it like the regular ecosystem that catipillars live in?- ]",L-QS,5ba91672502a7223616c79e4,Why does the catipillar like this type of ecosystem?,Ava Howe,"9/24/2018, 12:53:05 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"According to World Book Kids, all living things need food and water to survive. If something doesn't need food and water, then it is not living.
 [    This theory cannot explain  - if the sun is a living thing. It doesn't need water or food.- ]    
 Does a thing need to be able to move in order to be living?
-Is there anything else a living thing might need?",L-Question Level 2,5bb2503f502a7223616cd23e,New Information from World Book Kids,Beth Tangorre,"10/1/2018, 12:50:07 PM",Ecology 18-19_GES,5Tangorre,,,,
+Is there anything else a living thing might need?",L-QS,5bb2503f502a7223616cd23e,New Information from World Book Kids,Beth Tangorre,"10/1/2018, 12:50:07 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"Ant houses are called anthills and they are made out of sand and maybe other things? They are shaped like a tiny hill. There is a hole at the top of the hill. Ants climb in and out of it. It appears to act as a door.
 [    I need to understand  - how such little ants can carry grains of sand and how do they make it stick?- ]    
-[    I need to understand  - how do ants dig? How do they make tunnels?- ]",L-Question Level 2,5bacdbc4502a7223616cbdbd,How do ants build anthills - building on by Mrs. Tangorre,Beth Tangorre,"9/27/2018, 9:31:48 AM",Ecology 18-19_GES,5Tangorre,,,,
+[    I need to understand  - how do ants dig? How do they make tunnels?- ]",L-QS,5bacdbc4502a7223616cbdbd,How do ants build anthills - building on by Mrs. Tangorre,Beth Tangorre,"9/27/2018, 9:31:48 AM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"But if a female eats a sirtin thing they will be a queen and startes a new colnie
-[    I need to understand how she takes care of all of thosse babies when she did not take any worker ants-- ]",L-Question Level 2,5bcde0a3e196dc4872d2cb19,Fun with ants,Serena Thomas,"10/22/2018, 10:37:23 AM",Ecology 18-19_GES,5Kenyon,,,,
+[    I need to understand how she takes care of all of thosse babies when she did not take any worker ants-- ]",L-QS,5bcde0a3e196dc4872d2cb19,Fun with ants,Serena Thomas,"10/22/2018, 10:37:23 AM",Ecology 18-19_GES,5Kenyon,,
 L-Q,"How Do Ant Build Ant Hills?
 [    My theory  - is That They Use Their Back to Carry Dirt And Have Groups Called.. A Colony.- ]    
-[    I need to understand  - How Long Do Ant's Take to build ant hills?""- ]",L-Question Level 2,5beb4c1f4527904360bbd68d,How Do Ants Build Ant Hills? By Shreyas srivastav,Shreyas Srivastav,"11/13/2018, 4:12:30 PM",Ecology 18-19_GES,5Tangorre,,,,
+[    I need to understand  - How Long Do Ant's Take to build ant hills?""- ]",L-QS,5beb4c1f4527904360bbd68d,How Do Ants Build Ant Hills? By Shreyas srivastav,Shreyas Srivastav,"11/13/2018, 4:12:30 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"How does moss have an impact on wild life in our court yard.
-[    My theory  - I think moss is soft so it can be used as a resting place or making a nest.- ]",L-Question Level 2,5ba8fda7502a7223616c773c,moss in the court yard,John Wang,"9/24/2018, 11:07:17 AM",Ecology 18-19_GES,5Kenyon,,,,
+[    My theory  - I think moss is soft so it can be used as a resting place or making a nest.- ]",L-QS,5ba8fda7502a7223616c773c,moss in the court yard,John Wang,"9/24/2018, 11:07:17 AM",Ecology 18-19_GES,5Kenyon,,
 L-Q,"I am wondering how roots work. How does the water get in there? What else might the tree need?
 [    My theory  - is that plants may also need sun. - ]    
-[    I need to understand  - what they need sun for and how they get it.- ]",L-Question Level 2,5ba9149e502a7223616c7995,How do trees get what they need?,Beth Tangorre,"9/24/2018, 12:45:18 PM",Ecology 18-19_GES,5Tangorre,,,,
+[    I need to understand  - what they need sun for and how they get it.- ]",L-QS,5ba9149e502a7223616c7995,How do trees get what they need?,Beth Tangorre,"9/24/2018, 12:45:18 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"I belive that birds insect spiders and moss live in trees
-[    I need to understand  -What other things live in trees?- ]",L-Question Level 2,5bace57c502a7223616cbe15,What stuff lives in trees,Tyler Manning,"9/27/2018, 10:13:16 AM",Ecology 18-19_GES,5Murphyurphy,,,,
+[    I need to understand  -What other things live in trees?- ]",L-QS,5bace57c502a7223616cbe15,What stuff lives in trees,Tyler Manning,"9/27/2018, 10:13:16 AM",Ecology 18-19_GES,5Murphyurphy,,
 L-Q,"I have noticed how there are many apple trees, im wondering what effectsrotting apples on the ground to happen.
 [    I need to understand  -Why there are rotting apples on the ground out of nowhere. Do animals and weather make this happen? Does time matter?
 [    My theory  -I'm thinking rotting apples happen when insects go through eating the apple (sometimes happens) , when it's finished, the apple has less enerygy so time makes it rot. - ]    
-- ]",L-Question Level 2,5bbfd6aafbfdfb5f82346f13,What effects apples to rot?,Regis Gurung,"10/11/2018, 7:03:06 PM",Ecology 18-19_GES,5Kenyonnyon,,,,
+- ]",L-QS,5bbfd6aafbfdfb5f82346f13,What effects apples to rot?,Regis Gurung,"10/11/2018, 7:03:06 PM",Ecology 18-19_GES,5Kenyonnyon,,
 L-Q,"I heard that posin ivy can make you very ichy there must be something in it.
-I am wondering what is in the alergetic oil posin ivy gives. How dose it interact with the human skin how come the body dose not like that oil. Is there something we can invent something to make it so you are not afected by posin Ivy for a sertan amont of time.",L-Question Level 2,5ba8f982502a7223616c756f,Whats in posin the oil that is on posin Ivy,Nicholas LaCelle,"9/24/2018, 10:49:36 AM",Ecology 18-19_GES,5Kenyonnyon,,,,
+I am wondering what is in the alergetic oil posin ivy gives. How dose it interact with the human skin how come the body dose not like that oil. Is there something we can invent something to make it so you are not afected by posin Ivy for a sertan amont of time.",L-QS,5ba8f982502a7223616c756f,Whats in posin the oil that is on posin Ivy,Nicholas LaCelle,"9/24/2018, 10:49:36 AM",Ecology 18-19_GES,5Kenyonnyon,,
 L-Q,"I know that LIVING things eat to grow bigger.
 I can see that the fuzzy stuff is getting bigger and the fruit is shrinking.
 This makes me think the fuzzy stuff is a living thing.
 Since the fruit is from a plant, and I know that decomposers eat plants, I think the fuzzy stuff on the fruit is a decomposer.
 I need to understand Where did the decomposer come from?
-I need to understand How is this mini ecosystem like our larger GES COURTYARD ECOSYSTEM?",L-Question Level 2,5bcf1ac4e196dc4872d2f7f1,Decomposers,Patricia Gagnon,"10/23/2018, 8:57:40 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
+I need to understand How is this mini ecosystem like our larger GES COURTYARD ECOSYSTEM?",L-QS,5bcf1ac4e196dc4872d2f7f1,Decomposers,Patricia Gagnon,"10/23/2018, 8:57:40 AM",Ecology 18-19_GES,5Gagnonagnon,,
 L-Q,"I know that the sun is bigger than all the plantes in the solarsystem it has molucuels that giving more than enough energy to power all life on earth
-[    I need to understand  - how sunlight afects the plants and trees by mixing with water and crbon dioxide- ]",L-Question Level 2,5bcde4c3e196dc4872d2cdcc,sunlight,Venkata Veekshith Inuganty,"10/22/2018, 10:54:58 AM",Ecology 18-19_GES,5Kenyon,,,,
+[    I need to understand  - how sunlight afects the plants and trees by mixing with water and crbon dioxide- ]",L-QS,5bcde4c3e196dc4872d2cdcc,sunlight,Venkata Veekshith Inuganty,"10/22/2018, 10:54:58 AM",Ecology 18-19_GES,5Kenyon,,
 L-Q,"I know that trees drop leaves onto the grass. I wonder where those leaves go.
 [    My theory  - is that trees can be a home for other living things.I wonder what things live in OUR trees and why? - ]    
-[    This theory cannot explain  - why those things choose to live in the tree.- ]",L-Question Level 2,5ba8f3c6502a7223616c7244,How do trees interact with other living things in the courtyard?,Beth Tangorre,"9/24/2018, 10:25:10 AM",Ecology 18-19_GES,5Tangorre,,,,
+[    This theory cannot explain  - why those things choose to live in the tree.- ]",L-QS,5ba8f3c6502a7223616c7244,How do trees interact with other living things in the courtyard?,Beth Tangorre,"9/24/2018, 10:25:10 AM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"I noticed that moss grows alot in places, in trees on the ground and rocks
 [    (missing link)  - that moss grows in many different places. I know trees, ground and rocks have minerals. Does that help moss grow on those places?
-[    (missing link)  - is that moss grows in many different places because it spreads when moss fully covers rocks or the ground.",L-Question Level 2,5ba8f8d7502a7223616c74d7,Moss grows in a lot of different places,Regis Gurung,"9/24/2018, 10:46:45 AM",Ecology 18-19_GES,5Kenyonnyon,,,,
-L-Q,"I noticed that the leaves after they fall of the tree they turn a different color,texture and look what happens to the leaves after they are fully different form does it get blown away by the wind or turn into compost?",L-Question Level 2,5ba8f81c502a7223616c73a9,What happens to the leaves?,Udita Solanki,"9/24/2018, 10:43:40 AM",Ecology 18-19_GES,5Kenyonnyon,,,,
+[    (missing link)  - is that moss grows in many different places because it spreads when moss fully covers rocks or the ground.",L-QS,5ba8f8d7502a7223616c74d7,Moss grows in a lot of different places,Regis Gurung,"9/24/2018, 10:46:45 AM",Ecology 18-19_GES,5Kenyonnyon,,
+L-Q,"I noticed that the leaves after they fall of the tree they turn a different color,texture and look what happens to the leaves after they are fully different form does it get blown away by the wind or turn into compost?",L-QS,5ba8f81c502a7223616c73a9,What happens to the leaves?,Udita Solanki,"9/24/2018, 10:43:40 AM",Ecology 18-19_GES,5Kenyonnyon,,
 L-Q,"I think that they build anthills by carreying the sand 1 by 1
-how many ants live in a arige anthill",L-Question Level 2,5bad2f5b502a7223616cc0cd,ANTS,Owain Paton,"9/27/2018, 3:28:27 PM",Ecology 18-19_GES,5Murphyurphy,,,,
+how many ants live in a arige anthill",L-QS,5bad2f5b502a7223616cc0cd,ANTS,Owain Paton,"9/27/2018, 3:28:27 PM",Ecology 18-19_GES,5Murphyurphy,,
 L-Q,"I Was Wondering How Weather Effects Living And Non-Living Matter?
 [    A better theory  - Is How Living And Non-Living Matter Reacts To The Different Types Of Weather.- ]    
-[    I need to understand  - What happens to the Living And Non-Living Matter When Its Snowing Or Theres A Tornado Or Say If There Was A Tsunami I Want To Know What Happens!- ]",L-Question Level 2,5ba8fa58502a7223616c7594,How Does Weather Effect Living And Non-Living Matter?,Emma Codden,"9/24/2018, 10:53:10 AM",Ecology 18-19_GES,5Kenyonnyon,,,,
+[    I need to understand  - What happens to the Living And Non-Living Matter When Its Snowing Or Theres A Tornado Or Say If There Was A Tsunami I Want To Know What Happens!- ]",L-QS,5ba8fa58502a7223616c7594,How Does Weather Effect Living And Non-Living Matter?,Emma Codden,"9/24/2018, 10:53:10 AM",Ecology 18-19_GES,5Kenyonnyon,,
 L-Q,"I was wondering in the winter when tree leafs change color and fall I was wondering if poison ivy did that too.
-Because poison ivy is A leaf as well but maybe the poison in the poison ivy makes it stay alive in the winter but I'm not so sure",L-Question Level 2,5ba8fd19502a7223616c76ef,Does poison ivy change color in the winter,Elena Del Rio Kostenwein,"9/24/2018, 11:04:57 AM",Ecology 18-19_GES,5Kenyonnyon,,,,
-L-Q,i wondering if the risen why there is so many todes outside is because of the tadpoles in the buket pluse how fides them and how they live,L-Question Level 2,5ba8f81a502a7223616c739b,tadpoles,Ilhaam Ullah,"9/24/2018, 10:43:33 AM",Ecology 18-19_GES,5Murphyurphy,,,,
+Because poison ivy is A leaf as well but maybe the poison in the poison ivy makes it stay alive in the winter but I'm not so sure",L-QS,5ba8fd19502a7223616c76ef,Does poison ivy change color in the winter,Elena Del Rio Kostenwein,"9/24/2018, 11:04:57 AM",Ecology 18-19_GES,5Kenyonnyon,,
+L-Q,i wondering if the risen why there is so many todes outside is because of the tadpoles in the buket pluse how fides them and how they live,L-QS,5ba8f81a502a7223616c739b,tadpoles,Ilhaam Ullah,"9/24/2018, 10:43:33 AM",Ecology 18-19_GES,5Murphyurphy,,
 L-Q,"if you know whats going on inside an ant home
 HOW do you know whats going on inside an ant home.
 I think was going on is they are gathering food
 Because the cold winter is coming.
 I know this because i mostly see
-ants cralwing outside picking up leaves for food",L-Question Level 2,5ba8f9de502a7223616c758a,what's going on inside an ant home?,Adam Nardone,"9/24/2018, 10:51:08 AM",Ecology 18-19_GES,5Kenyonnyon,,,,
+ants cralwing outside picking up leaves for food",L-QS,5ba8f9de502a7223616c758a,what's going on inside an ant home?,Adam Nardone,"9/24/2018, 10:51:08 AM",Ecology 18-19_GES,5Kenyonnyon,,
 L-Q,"in my
 [    New Information  - I learned most ants cant have babys but one can so thats the queen. but it I also learned that when a queen dies the collney dies- ]    
-[    I need to understand  - how this gose with a ant eating the right food.- ]",L-Question Level 2,5c0ea098c0c1561fdba72b5f,queen ant,Caela Kushner,"12/10/2018, 12:21:28 PM",Ecology 18-19_GES,5Tangorre,,,,
+[    I need to understand  - how this gose with a ant eating the right food.- ]",L-QS,5c0ea098c0c1561fdba72b5f,queen ant,Caela Kushner,"12/10/2018, 12:21:28 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"is moss a plant or a fungus
 [    My theory  - is that it is a fungus- ]     but I am unsure and will update you when I have done further research
-Your friend Sienna (:",L-Question Level 2,5bcdfdb4e196dc4872d2d018,is moss really a plant or a fungus Sienna,Sienna Schuller,"10/22/2018, 12:41:23 PM",Ecology 18-19_GES,5Tangorre,,,,
+Your friend Sienna (:",L-QS,5bcdfdb4e196dc4872d2d018,is moss really a plant or a fungus Sienna,Sienna Schuller,"10/22/2018, 12:41:23 PM",Ecology 18-19_GES,5Tangorre,,
 L-Q,"my theory about moss is that if Moss grows and livesthen shuolden't it grow on every living thing.
 In the courtyard I saw it was only on trees and the dirt.But why was the Moss on the dirt? Dirt is
-Non-living",L-Question Level 2,5ba8fb0b502a7223616c75ff,Moss grows where,Hailey Altschule,"9/24/2018, 10:56:09 AM",Ecology 18-19_GES,5Kenyonnyon,,,,
-L-Q,"my wondering is ifbirds, bats, dragonflies, frogs, and spiderseat mosquitoes.will they get the disease? Ifthey get the dieaseses they would die and they will eventually will go inxtinctand there will no mosquito feeders then there will be alot of mosquitoes and they alot of people will get the diseases and alot mamals will die. :(",L-Question Level 2,5bf2d4087e20b918b8c60feb,mosquitoes are a impact on the ecosystim,Anthony DiMura,"11/19/2018, 10:17:28 AM",Ecology 18-19_GES,5Murphyurphy,,,,
-L-Q,This theroy I cannot explain but why do diffrent spiders have diffrent behaviors? Is it just that they react to certian things in a certian way or what?,L-Question Level 2,5bdc50405182ad5cff2b5c02,Spider behaviors,Emily Maguire,"11/2/2018, 9:25:18 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
+Non-living",L-QS,5ba8fb0b502a7223616c75ff,Moss grows where,Hailey Altschule,"9/24/2018, 10:56:09 AM",Ecology 18-19_GES,5Kenyonnyon,,
+L-Q,"my wondering is ifbirds, bats, dragonflies, frogs, and spiderseat mosquitoes.will they get the disease? Ifthey get the dieaseses they would die and they will eventually will go inxtinctand there will no mosquito feeders then there will be alot of mosquitoes and they alot of people will get the diseases and alot mamals will die. :(",L-QS,5bf2d4087e20b918b8c60feb,mosquitoes are a impact on the ecosystim,Anthony DiMura,"11/19/2018, 10:17:28 AM",Ecology 18-19_GES,5Murphyurphy,,
+L-Q,This theroy I cannot explain but why do diffrent spiders have diffrent behaviors? Is it just that they react to certian things in a certian way or what?,L-QS,5bdc50405182ad5cff2b5c02,Spider behaviors,Emily Maguire,"11/2/2018, 9:25:18 AM",Ecology 18-19_GES,5Gagnonagnon,,
 L-Q,"what evidence do we have to prove why we need air and why fish don't.
 Fish might have some kind part in their body to help them survive in water with no air.
-It might be the gills or maybe their heart has some kind of organ that gives them air",L-Question Level 2,5baa3acc502a7223616caa7a,air by Cole forman,Cole Forman,"9/25/2018, 9:40:27 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,"What if the big tree by the school in the court yard fell down,what would happen,would someone get hurt? would we evacute the school or just the class that the tree fell down on. Would the whole school just leave or...what?",L-Question Level 2,5baa3b6c502a7223616cabb9,The big tree in the court yard,Brydie Kelley,"9/25/2018, 9:43:07 AM",Ecology 18-19_GES,5Gagnon,,,,
+It might be the gills or maybe their heart has some kind of organ that gives them air",L-QS,5baa3acc502a7223616caa7a,air by Cole forman,Cole Forman,"9/25/2018, 9:40:27 AM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,"What if the big tree by the school in the court yard fell down,what would happen,would someone get hurt? would we evacute the school or just the class that the tree fell down on. Would the whole school just leave or...what?",L-QS,5baa3b6c502a7223616cabb9,The big tree in the court yard,Brydie Kelley,"9/25/2018, 9:43:07 AM",Ecology 18-19_GES,5Gagnon,,
 L-Q,"Why do birds have feathers, even if they cant fly?
-[    I need to understand  - If pengiuns cant fly why do they need feathers? wouldn't they be better of if they had thick fur like mammal?.- ]",L-Question Level 2,5bb2b6b3502a7223616cd6ec,Why do non-flying birds need feathers?,Langston Threatte,"10/1/2018, 8:07:15 PM",Ecology 18-19_GES,5Kenyon,,,,
-L-Q,Why does poison ivy spread? Does when somebody step in it does it travel from them to other places or does it jut grow unless conained because it is an invasive species?,L-Question Level 2,5bdc51a55182ad5cff2b5c2a,Why does poison ivy spread?,Emily Maguire,"11/2/2018, 9:31:15 AM",Ecology 18-19_GES,5Gagnonagnon,,,,
+[    I need to understand  - If pengiuns cant fly why do they need feathers? wouldn't they be better of if they had thick fur like mammal?.- ]",L-QS,5bb2b6b3502a7223616cd6ec,Why do non-flying birds need feathers?,Langston Threatte,"10/1/2018, 8:07:15 PM",Ecology 18-19_GES,5Kenyon,,
+L-Q,Why does poison ivy spread? Does when somebody step in it does it travel from them to other places or does it jut grow unless conained because it is an invasive species?,L-QS,5bdc51a55182ad5cff2b5c2a,Why does poison ivy spread?,Emily Maguire,"11/2/2018, 9:31:15 AM",Ecology 18-19_GES,5Gagnonagnon,,
 L-Q,"why is soil thick and black?
-why is ther dark forset soil and sandy soil and clay soil?",L-Question Level 2,5bd895df6d2ce8626e2caeac,things i want to know about soil,Darrian Fuller,"10/30/2018, 1:33:19 PM",Ecology 18-19_GES,5Gagnonagnon,,,,
-L-Q,Why isn't Africa's water system as well as ours?,L-Question Level 1,5ccaf24c747d9e5f35de97cf,Water,Jahan Trivedi,"5/2/2019, 9:36:12 AM",WaterUnit 18-19 GES,5Gagnon,,,,
-L-Q,how are they able to find resources?,L-Question Level 1,5ccc476c747d9e5f35dea398,build on to emily r,Emily Maguire,"5/3/2019, 9:51:40 AM",WaterUnit 18-19 GES,5Gagnonagnon,,,,
-L-Q,"I need to understand, how would water get to those in need? My theory is that you could build underground tubes instead of over ground tubes, that way, you can deliver watr without it interfearing with roads, and buildings.",L-Question Level 2,5ccc4675747d9e5f35dea2f2,Water question,Madison Ericksen,"5/3/2019, 9:47:32 AM",WaterUnit 18-19 GES,5Gagnonagnon,,,,
-L-Q,Why does Africa's water dry up so quickly?,L-Question Level 1,5ccc46df747d9e5f35dea32c,Africa's water,Jahan Trivedi,"5/3/2019, 9:49:18 AM",WaterUnit 18-19 GES,5Gagnon,,,,
-L-Q,[    I need to understand how filters work.,L-Question Level 1,5ccc46f3747d9e5f35dea341,Filters,Emily Maguire,"5/3/2019, 9:49:39 AM",WaterUnit 18-19 GES,5Gagnonagnon,,,,
-L-Q,[    I need to understand how do filters work?,L-Question Level 1,5ccc46f4747d9e5f35dea346,?,Emily Maguire,"5/3/2019, 9:49:39 AM",WaterUnit 18-19 GES,5Gagnonagnon,,,,
-L-Q,why do we have a better water system than other counries? What makes it different for them? Is it because the other countries are hotter than ours? like Africa?,L-Question Level 2,5ccc4717747d9e5f35dea36d,Water,Srimukha Chanubala,"5/3/2019, 9:50:14 AM",WaterUnit 18-19 GES,5Gagnonagnon,,,,
-L-Q,Where did water come from?,L-Question Level 1,5cd04784747d9e5f35dead58,Qustion,Tyler Manning,"5/6/2019, 10:41:13 AM",WaterUnit 18-19 GES,5Murphyurphy,,,,
-L-Q,"[    This theory cannot explain - ifour water is coming from the ocean water that evaporates and later rains, does rain water have salt in it, too?",L-Question Level 2,5cdcb49b747d9e5f35df29ff,evaporation and salt,Patricia Gagnon,"5/15/2019, 8:53:49 PM",WaterUnit 18-19 GES,5Gagnonagnon,,,,
-L-Q,I am wondering if water forms in space. What if the Hyderojen and oxegen bind then came to earth some how. Can we make water on earth by binding the two elemnts.,L-Question Level 2,5cd047f1747d9e5f35dead72,Space,Annabella DeFranza,"5/6/2019, 10:42:58 AM",WaterUnit 18-19 GES,5Murphyurphy,,,,
-L-Q,You cant make water Right?,L-Question Level 1,5cd047f2747d9e5f35dead7c,Water,Anthony DiMura,"5/6/2019, 10:43:02 AM",WaterUnit 18-19 GES,5Murphyurphy,,,,
-L-Q,I am wondering what would happen if you instead of having water for two weeks you drank sugar drinks!,L-Question Level 1,5cd04a87747d9e5f35deadd1,MY QUESTION,Alivia Attanasio,"5/6/2019, 10:54:03 AM",WaterUnit 18-19 GES,5Murphyurphy,,,,
-L-Q,"Water is unheathy,or does this mean that you get something un heathy with that?",L-Question Level 1,5ce5b457747d9e5f35dfc10f,Build on to Emily M.,Annabella DeFranza,"5/22/2019, 4:43:03 PM",WaterUnit 18-19 GES,5Murphyurphy,,,,
-L-Q,Were does water come from?,L-Question Level 1,5cd0630a747d9e5f35deaf31,Question,Angelo Lubrano,"5/6/2019, 12:38:41 PM",WaterUnit 18-19 GES,5Tangorre,,,,
-L-Q,how does water scarcity happen,L-Question Level 1,5cd06409747d9e5f35deaf43,water scarcity,Noah Webster,"5/6/2019, 12:42:50 PM",WaterUnit 18-19 GES,5Tangorre,,,,
-L-Q,I am wondering why sugar drinks have a taste and water doesn't have one,L-Question Level 1,5cd0643a747d9e5f35deaf55,my question,Anthony Lia,"5/6/2019, 12:43:40 PM",WaterUnit 18-19 GES,5Tangorre,,,,
-L-Q,Does this mean that water tastes like nothing?,L-Question Level 1,5ce0610c747d9e5f35df5a39,?,Annabella DeFranza,"5/18/2019, 3:46:19 PM",WaterUnit 18-19 GES,5Murphyurphy,,,,
+why is ther dark forset soil and sandy soil and clay soil?",L-QS,5bd895df6d2ce8626e2caeac,things i want to know about soil,Darrian Fuller,"10/30/2018, 1:33:19 PM",Ecology 18-19_GES,5Gagnonagnon,,
+L-Q,Why isn't Africa's water system as well as ours?,L-QF,5ccaf24c747d9e5f35de97cf,Water,Jahan Trivedi,"5/2/2019, 9:36:12 AM",WaterUnit 18-19 GES,5Gagnon,,
+L-Q,how are they able to find resources?,L-QF,5ccc476c747d9e5f35dea398,build on to emily r,Emily Maguire,"5/3/2019, 9:51:40 AM",WaterUnit 18-19 GES,5Gagnonagnon,,
+L-Q,"I need to understand, how would water get to those in need? My theory is that you could build underground tubes instead of over ground tubes, that way, you can deliver watr without it interfearing with roads, and buildings.",L-QS,5ccc4675747d9e5f35dea2f2,Water question,Madison Ericksen,"5/3/2019, 9:47:32 AM",WaterUnit 18-19 GES,5Gagnonagnon,,
+L-Q,Why does Africa's water dry up so quickly?,L-QF,5ccc46df747d9e5f35dea32c,Africa's water,Jahan Trivedi,"5/3/2019, 9:49:18 AM",WaterUnit 18-19 GES,5Gagnon,,
+L-Q,[    I need to understand how filters work.,L-QF,5ccc46f3747d9e5f35dea341,Filters,Emily Maguire,"5/3/2019, 9:49:39 AM",WaterUnit 18-19 GES,5Gagnonagnon,,
+L-Q,[    I need to understand how do filters work?,L-QF,5ccc46f4747d9e5f35dea346,?,Emily Maguire,"5/3/2019, 9:49:39 AM",WaterUnit 18-19 GES,5Gagnonagnon,,
+L-Q,why do we have a better water system than other counries? What makes it different for them? Is it because the other countries are hotter than ours? like Africa?,L-QS,5ccc4717747d9e5f35dea36d,Water,Srimukha Chanubala,"5/3/2019, 9:50:14 AM",WaterUnit 18-19 GES,5Gagnonagnon,,
+L-Q,Where did water come from?,L-QF,5cd04784747d9e5f35dead58,Qustion,Tyler Manning,"5/6/2019, 10:41:13 AM",WaterUnit 18-19 GES,5Murphyurphy,,
+L-Q,"[    This theory cannot explain - ifour water is coming from the ocean water that evaporates and later rains, does rain water have salt in it, too?",L-QS,5cdcb49b747d9e5f35df29ff,evaporation and salt,Patricia Gagnon,"5/15/2019, 8:53:49 PM",WaterUnit 18-19 GES,5Gagnonagnon,,
+L-Q,I am wondering if water forms in space. What if the Hyderojen and oxegen bind then came to earth some how. Can we make water on earth by binding the two elemnts.,L-QS,5cd047f1747d9e5f35dead72,Space,Annabella DeFranza,"5/6/2019, 10:42:58 AM",WaterUnit 18-19 GES,5Murphyurphy,,
+L-Q,You cant make water Right?,L-QF,5cd047f2747d9e5f35dead7c,Water,Anthony DiMura,"5/6/2019, 10:43:02 AM",WaterUnit 18-19 GES,5Murphyurphy,,
+L-Q,I am wondering what would happen if you instead of having water for two weeks you drank sugar drinks!,L-QF,5cd04a87747d9e5f35deadd1,MY QUESTION,Alivia Attanasio,"5/6/2019, 10:54:03 AM",WaterUnit 18-19 GES,5Murphyurphy,,
+L-Q,"Water is unheathy,or does this mean that you get something un heathy with that?",L-QF,5ce5b457747d9e5f35dfc10f,Build on to Emily M.,Annabella DeFranza,"5/22/2019, 4:43:03 PM",WaterUnit 18-19 GES,5Murphyurphy,,
+L-Q,Were does water come from?,L-QF,5cd0630a747d9e5f35deaf31,Question,Angelo Lubrano,"5/6/2019, 12:38:41 PM",WaterUnit 18-19 GES,5Tangorre,,
+L-Q,how does water scarcity happen,L-QF,5cd06409747d9e5f35deaf43,water scarcity,Noah Webster,"5/6/2019, 12:42:50 PM",WaterUnit 18-19 GES,5Tangorre,,
+L-Q,I am wondering why sugar drinks have a taste and water doesn't have one,L-QF,5cd0643a747d9e5f35deaf55,my question,Anthony Lia,"5/6/2019, 12:43:40 PM",WaterUnit 18-19 GES,5Tangorre,,
+L-Q,Does this mean that water tastes like nothing?,L-QF,5ce0610c747d9e5f35df5a39,?,Annabella DeFranza,"5/18/2019, 3:46:19 PM",WaterUnit 18-19 GES,5Murphyurphy,,
 L-Q,"my wondering is:
-what are some ways humans purify water",L-Question Level 1,5cd065bd747d9e5f35deafb4,Timmys wondering,Timothy Esmay,"5/6/2019, 12:50:06 PM",WaterUnit 18-19 GES,5Tangorre,,,,
+what are some ways humans purify water",L-QF,5cd065bd747d9e5f35deafb4,Timmys wondering,Timothy Esmay,"5/6/2019, 12:50:06 PM",WaterUnit 18-19 GES,5Tangorre,,
 L-Q,"can you make water?
-i do not think you can",L-Question Level 1,5cd312fe747d9e5f35debcc9,can you make water,Oscar Colbert,"5/8/2019, 1:33:51 PM",WaterUnit 18-19 GES,5Tangorre,,,,
-L-Q,whats water made out of?,L-Question Level 1,5cd31346747d9e5f35debcd4,whats water made of,Oscar Colbert,"5/8/2019, 1:35:03 PM",WaterUnit 18-19 GES,5Tangorre,,,,
-L-Q,How would we find a way to increase our water supply to througout the United States instead of just here in America?,L-Question Level 1,5cd313a5747d9e5f35debcf6,Water Supply,Ava Howe,"5/8/2019, 1:36:44 PM",WaterUnit 18-19 GES,5Tangorre,,,,
-L-Q,how do you make water,L-Question Level 1,5cd313d5747d9e5f35debd15,water and how to make it,Gavin Fung,"5/8/2019, 1:37:26 PM",WaterUnit 18-19 GES,5Tangorre,,,,
-L-Q,We have so much water in the ocean whats the point of making water,L-Question Level 1,5ced3c17747d9e5f35e05144,Whats the point of making water?,Derick Sy,"5/28/2019, 9:48:09 AM",WaterUnit 18-19 GES,5Gagnonagnon,,,,
-L-Q,How do you make water can somebody help me,L-Question Level 1,5cd313d5747d9e5f35debd17,how do you make water,Gavin Fung,"5/8/2019, 1:37:26 PM",WaterUnit 18-19 GES,5Tangorre,,,,
-L-Q,Why can't we just strain the salt water to purify the water?,L-Question Level 1,5cd31419747d9e5f35debd3d,Gopika T,Gopika Thaliyakkattil,"5/8/2019, 1:38:33 PM",WaterUnit 18-19 GES,5Tangorre,,,,
+i do not think you can",L-QF,5cd312fe747d9e5f35debcc9,can you make water,Oscar Colbert,"5/8/2019, 1:33:51 PM",WaterUnit 18-19 GES,5Tangorre,,
+L-Q,whats water made out of?,L-QF,5cd31346747d9e5f35debcd4,whats water made of,Oscar Colbert,"5/8/2019, 1:35:03 PM",WaterUnit 18-19 GES,5Tangorre,,
+L-Q,How would we find a way to increase our water supply to througout the United States instead of just here in America?,L-QF,5cd313a5747d9e5f35debcf6,Water Supply,Ava Howe,"5/8/2019, 1:36:44 PM",WaterUnit 18-19 GES,5Tangorre,,
+L-Q,how do you make water,L-QF,5cd313d5747d9e5f35debd15,water and how to make it,Gavin Fung,"5/8/2019, 1:37:26 PM",WaterUnit 18-19 GES,5Tangorre,,
+L-Q,We have so much water in the ocean whats the point of making water,L-QF,5ced3c17747d9e5f35e05144,Whats the point of making water?,Derick Sy,"5/28/2019, 9:48:09 AM",WaterUnit 18-19 GES,5Gagnonagnon,,
+L-Q,How do you make water can somebody help me,L-QF,5cd313d5747d9e5f35debd17,how do you make water,Gavin Fung,"5/8/2019, 1:37:26 PM",WaterUnit 18-19 GES,5Tangorre,,
+L-Q,Why can't we just strain the salt water to purify the water?,L-QF,5cd31419747d9e5f35debd3d,Gopika T,Gopika Thaliyakkattil,"5/8/2019, 1:38:33 PM",WaterUnit 18-19 GES,5Tangorre,,
 L-Q,"Hi this is Sienna my wondering is how can we move glaciar water to our home town and other places?
-thank you",L-Question Level 1,5cd3147d747d9e5f35debd6a,Can we move water? by Sienna Schuller,Sienna Schuller,"5/8/2019, 1:40:15 PM",WaterUnit 18-19 GES,5Tangorre,,,,
-L-Q,[    I need to understand  - why we can't just boil the salt out of the water and filter it. Also if the water is moving from the ocean to rivers to lakes and streams where it gets cleaned and drinked then why can't we just take out the salt and clean the ocean water - ]     of couse then we would have to see how to get it to people in need but still why can't we just do that stuff to the sea water and just deel with it if it is clean it makes no sense!,L-Question Level 2,5cf98dcd6f2f7559634ab55b,Build on,Annabella DeFranza,"6/6/2019, 6:03:58 PM",WaterUnit 18-19 GES,5Murphyurphy,,,,
-L-Q,"I fully agree with you on this topic, but I have a question- how do the hydrogen atoms and oxygen atoms bond?",L-Question Level 1,5cd981f4747d9e5f35df1747,question about hydrogen and oxygen atoms,Lucy Steindler,"5/13/2019, 10:40:57 AM",WaterUnit 18-19 GES,5Murphy,,,,
-L-Q,[    I need to understand that why some people can get to water so fast and other people can't. Is it because those countries are hotter and water evaporates faster or is it because they don't have the technology that we have here and we have water pipes and other countries don't?,L-Question Level 2,5cd57c44747d9e5f35ded6e5,Water Scarcity,Srimukha Chanubala,"5/10/2019, 9:27:31 AM",WaterUnit 18-19 GES,5Gagnonagnon,,,,
-L-Q,Why can't Salva just make a water filter,L-Question Level 1,5cd57caa747d9e5f35ded6f9,Just make a water filter,Jack Murphy,"5/10/2019, 9:29:14 AM",WaterUnit 18-19 GES,5Murphyurphy,,,,
-L-Q,Salva doesn't have the mateirials.,L-Question Level 1,5d024e0c6f2f7559634b0555,Build on,Jahan Trivedi,"6/13/2019, 9:22:19 AM",WaterUnit 18-19 GES,5Gagnon,,,,
-L-Q,What are leaches and how are they getting attached to us? What happens when they attach on to us?,L-Question Level 2,5cd57cdd747d9e5f35ded71c,Leaches,Emily Maguire,"5/10/2019, 9:30:04 AM",WaterUnit 18-19 GES,5Gagnonagnon,,,,
-L-Q,[    I need to understand  - How can scientist make cars that drive its self but they can't turn saltwater into freshwater ?- ],L-Question Level 1,5cd5adb3747d9e5f35ded801,Salt water to freshwater,Dylan Phillips,"5/10/2019, 12:58:27 PM",WaterUnit 18-19 GES,5Kenyonnyon,,,,
-L-Q,can we build filters for your problem?,L-Question Level 1,5cf12f65747d9e5f35e09e72,build on,Srimukha Chanubala,"5/31/2019, 9:43:01 AM",WaterUnit 18-19 GES,5Gagnonagnon,,,,
-L-Q,will we ever run out of water? well im going reaserch will we run out of water?,L-Question Level 2,5cd98372747d9e5f35df1758,will we ever run out of water?,Williamdaniel Byrnes,"5/13/2019, 10:47:15 AM",WaterUnit 18-19 GES,5Murphyurphy,,,,
-L-Q,how can we help stop water pollution,L-Question Level 1,5cd98475747d9e5f35df1784,water pollution,Joseph Tumonis,"5/13/2019, 10:51:38 AM",WaterUnit 18-19 GES,5Murphyurphy,,,,
-L-Q,How can we help to get water for those in need all around the world in our community?,L-Question Level 1,5cd984dc747d9e5f35df17a3,? about water,Annabella DeFranza,"5/13/2019, 10:53:19 AM",WaterUnit 18-19 GES,5Murphyurphy,,,,
-L-Q,My new question for the water unit is why can we not make water?,L-Question Level 1,5cd984f0747d9e5f35df17a8,My new question!,Delaney Carr,"5/13/2019, 10:53:38 AM",WaterUnit 18-19 GES,5Murphyurphy,,,,
-L-Q,https://www.google.com/search?q=could+humans+create+water&amp;rlz=1CAKABJ_enUS835&amp;oq=could+&amp;aqs=chrome.0.69i59j69i57j0l4.7415j1j7&amp;sourceid=chrome&amp;ie=UTF-8&amp;safe=active&amp;ssui=on (Link->https://www.google.com/search?q=could+humans+create+water&amp;rlz=1CAKABJ_enUS835&amp;oq=could+&amp;aqs=chrome.0.69i59j69i57j0l4.7415j1j7&amp;sourceid=chrome&amp;ie=UTF-8&amp;safe=active&amp;ssui=on),L-Question Level 1,5cd986f2747d9e5f35df17fd,We can create water but its dangrass!Tyler,Tyler Manning,"5/13/2019, 11:02:18 AM",WaterUnit 18-19 GES,5Murphyurphy,,,,
-L-Q,I am wondering if milk or water are healthier?,L-Question Level 1,5ce5b4ec747d9e5f35dfc123,Build on to Kyla,Annabella DeFranza,"5/22/2019, 4:45:31 PM",WaterUnit 18-19 GES,5Murphyurphy,,,,
-L-Q,if there was no water could you drink juice insted?,L-Question Level 1,5ce4344d747d9e5f35dfb619,juice or water,Isabella LaFave,"5/21/2019, 1:24:28 PM",WaterUnit 18-19 GES,5Murphyurphy,,,,
-L-Q,I wonder how and why do fish breath water?,L-Question Level 1,5ce434b9747d9e5f35dfb62d,How Do fish breath?,Anthony DiMura,"5/21/2019, 1:26:23 PM",WaterUnit 18-19 GES,5Murphyurphy,,,,
+thank you",L-QF,5cd3147d747d9e5f35debd6a,Can we move water? by Sienna Schuller,Sienna Schuller,"5/8/2019, 1:40:15 PM",WaterUnit 18-19 GES,5Tangorre,,
+L-Q,[    I need to understand  - why we can't just boil the salt out of the water and filter it. Also if the water is moving from the ocean to rivers to lakes and streams where it gets cleaned and drinked then why can't we just take out the salt and clean the ocean water - ]     of couse then we would have to see how to get it to people in need but still why can't we just do that stuff to the sea water and just deel with it if it is clean it makes no sense!,L-QS,5cf98dcd6f2f7559634ab55b,Build on,Annabella DeFranza,"6/6/2019, 6:03:58 PM",WaterUnit 18-19 GES,5Murphyurphy,,
+L-Q,"I fully agree with you on this topic, but I have a question- how do the hydrogen atoms and oxygen atoms bond?",L-QF,5cd981f4747d9e5f35df1747,question about hydrogen and oxygen atoms,Lucy Steindler,"5/13/2019, 10:40:57 AM",WaterUnit 18-19 GES,5Murphy,,
+L-Q,[    I need to understand that why some people can get to water so fast and other people can't. Is it because those countries are hotter and water evaporates faster or is it because they don't have the technology that we have here and we have water pipes and other countries don't?,L-QS,5cd57c44747d9e5f35ded6e5,Water Scarcity,Srimukha Chanubala,"5/10/2019, 9:27:31 AM",WaterUnit 18-19 GES,5Gagnonagnon,,
+L-Q,Why can't Salva just make a water filter,L-QF,5cd57caa747d9e5f35ded6f9,Just make a water filter,Jack Murphy,"5/10/2019, 9:29:14 AM",WaterUnit 18-19 GES,5Murphyurphy,,
+L-Q,Salva doesn't have the mateirials.,L-QF,5d024e0c6f2f7559634b0555,Build on,Jahan Trivedi,"6/13/2019, 9:22:19 AM",WaterUnit 18-19 GES,5Gagnon,,
+L-Q,What are leaches and how are they getting attached to us? What happens when they attach on to us?,L-QS,5cd57cdd747d9e5f35ded71c,Leaches,Emily Maguire,"5/10/2019, 9:30:04 AM",WaterUnit 18-19 GES,5Gagnonagnon,,
+L-Q,[    I need to understand  - How can scientist make cars that drive its self but they can't turn saltwater into freshwater ?- ],L-QF,5cd5adb3747d9e5f35ded801,Salt water to freshwater,Dylan Phillips,"5/10/2019, 12:58:27 PM",WaterUnit 18-19 GES,5Kenyonnyon,,
+L-Q,can we build filters for your problem?,L-QF,5cf12f65747d9e5f35e09e72,build on,Srimukha Chanubala,"5/31/2019, 9:43:01 AM",WaterUnit 18-19 GES,5Gagnonagnon,,
+L-Q,will we ever run out of water? well im going reaserch will we run out of water?,L-QS,5cd98372747d9e5f35df1758,will we ever run out of water?,Williamdaniel Byrnes,"5/13/2019, 10:47:15 AM",WaterUnit 18-19 GES,5Murphyurphy,,
+L-Q,how can we help stop water pollution,L-QF,5cd98475747d9e5f35df1784,water pollution,Joseph Tumonis,"5/13/2019, 10:51:38 AM",WaterUnit 18-19 GES,5Murphyurphy,,
+L-Q,How can we help to get water for those in need all around the world in our community?,L-QF,5cd984dc747d9e5f35df17a3,? about water,Annabella DeFranza,"5/13/2019, 10:53:19 AM",WaterUnit 18-19 GES,5Murphyurphy,,
+L-Q,My new question for the water unit is why can we not make water?,L-QF,5cd984f0747d9e5f35df17a8,My new question!,Delaney Carr,"5/13/2019, 10:53:38 AM",WaterUnit 18-19 GES,5Murphyurphy,,
+L-Q,https://www.google.com/search?q=could+humans+create+water&amp;rlz=1CAKABJ_enUS835&amp;oq=could+&amp;aqs=chrome.0.69i59j69i57j0l4.7415j1j7&amp;sourceid=chrome&amp;ie=UTF-8&amp;safe=active&amp;ssui=on (Link->https://www.google.com/search?q=could+humans+create+water&amp;rlz=1CAKABJ_enUS835&amp;oq=could+&amp;aqs=chrome.0.69i59j69i57j0l4.7415j1j7&amp;sourceid=chrome&amp;ie=UTF-8&amp;safe=active&amp;ssui=on),L-QF,5cd986f2747d9e5f35df17fd,We can create water but its dangrass!Tyler,Tyler Manning,"5/13/2019, 11:02:18 AM",WaterUnit 18-19 GES,5Murphyurphy,,
+L-Q,I am wondering if milk or water are healthier?,L-QF,5ce5b4ec747d9e5f35dfc123,Build on to Kyla,Annabella DeFranza,"5/22/2019, 4:45:31 PM",WaterUnit 18-19 GES,5Murphyurphy,,
+L-Q,if there was no water could you drink juice insted?,L-QF,5ce4344d747d9e5f35dfb619,juice or water,Isabella LaFave,"5/21/2019, 1:24:28 PM",WaterUnit 18-19 GES,5Murphyurphy,,
+L-Q,I wonder how and why do fish breath water?,L-QF,5ce434b9747d9e5f35dfb62d,How Do fish breath?,Anthony DiMura,"5/21/2019, 1:26:23 PM",WaterUnit 18-19 GES,5Murphyurphy,,
 L-Q,"My question is that, if it rains a lot in the rain forests, then why doesn't it rain in the dry area's? And also the world should try to focus mainly at trying to get food and water around the world, to those in need.
 [    My theory  - Is that people are mainly focusing on how to advance technology, and how to make a new way to do something easier that is already easy. That's fine, but we need to put most of our time and focus into getting food and water to those in need.- ]    
-[    A better theory  - is that maybe if kids and younger people have to fetch water, how about other people from around the world can make programs and help them and find more water. - ]",L-Question Level 2,5ced3495747d9e5f35e04ecd,water by Zayn Farhan,Zayn Farham,"5/28/2019, 9:16:27 AM",WaterUnit 18-19 GES,5Gagnon,,,,
-L-Q,why do people need water.,L-Question Level 1,5ced34ba747d9e5f35e04ed8,Question,Jack Murphy,"5/28/2019, 9:16:47 AM",WaterUnit 18-19 GES,5Murphyurphy,,,,
+[    A better theory  - is that maybe if kids and younger people have to fetch water, how about other people from around the world can make programs and help them and find more water. - ]",L-QS,5ced3495747d9e5f35e04ecd,water by Zayn Farhan,Zayn Farham,"5/28/2019, 9:16:27 AM",WaterUnit 18-19 GES,5Gagnon,,
+L-Q,why do people need water.,L-QF,5ced34ba747d9e5f35e04ed8,Question,Jack Murphy,"5/28/2019, 9:16:47 AM",WaterUnit 18-19 GES,5Murphyurphy,,
 L-Q,"[    I need to understand  -- ]     if you left something in soda for two weeks and if you left that same thing in water for two weeks what would be the difference.
 [    My theory  -- ]    is that the one left in soda would be damaged while the one in the water would be perfectly fine.
 https://glensummitspringwater.com/the-great-spring-water-vs-soda-debate-from-glen-summit-spring/ (Link->https://glensummitspringwater.com/the-great-spring-water-vs-soda-debate-from-glen-summit-spring/)
-This link is a article about results of drinking water vs. the results of drinking soda.",L-Question Level 2,5ced3702747d9e5f35e04f34,water vs. soda,Michael Williams,"5/28/2019, 9:26:30 AM",WaterUnit 18-19 GES,5Gagnonagnon,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+This link is a article about results of drinking water vs. the results of drinking soda.",L-QS,5ced3702747d9e5f35e04f34,water vs. soda,Michael Williams,"5/28/2019, 9:26:30 AM",WaterUnit 18-19 GES,5Gagnonagnon,,
+L-Q,"
+[    I need to understand  - How CF starts before you are born?- ]
+
+
+",L-QF,,CF Question,Avery Schorr,"1/16/2018, 8:57:43 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+[    I need to understand  - how diabetes can effect the heart- ]
+
+
+",L-QF,,diabetes and heart,Aiden Harrigan,"1/16/2018, 9:07:35 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+[    I need to understand  - how does heart works? how does the heart make blood?- ]
+
+
+",L-QF,,heart,Paloma Yarleque,"1/16/2018, 9:11:27 AM",Human Body 2017-2018,5Murphyurphy,,
+L-Q,"
+[    I need to understand  - how much energy does the apple give us when we eat it?? Also, what do we do with the energy?? - ]
+
+
+",L-QF,,Apple,Aisling Trodden,"1/4/2018, 3:47:17 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+[    I need to understand  - how the brain controlls your muscles- ]
+
+
+",L-QF,,brain,Heather Depew,"1/18/2018, 10:11:58 AM",Human Body 2017-2018,5Kenyonnyon,,
+L-Q,"
+[    I need to understand  - How the brain sends feelings and other things using the nervous system- ]     Interesting
+
+
+",L-QF,,My Question,"Nadia Hawrylchak, Guangji Yuan","1/16/2018, 8:57:04 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+[    I need to understand  - How your brain connects to exercising.- ]
+
+
+",L-QF,,How does your brain connect to exercising?,Jocelyn Shako,"2/5/2018, 10:59:18 AM",Human Body 2017-2018,5Kirk,,
+L-Q,"
+[    I need to understand  - What happens during a Heart attack what is it caused by why does it happen?- ]
+
+
+",L-QF,,Heart Attack,Gianna Barnett,"2/6/2018, 10:15:03 AM",Human Body 2017-2018,5Kenyon,,
+L-Q,"
+[    I need to understand  - what happens if you eat something inside your body ? what happens if your stomache makes sounds like a rummbling sound?- ]
+
+
+",L-QF,,the digestive system,M10,"1/16/2018, 9:05:16 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+[    I need to understand  - What the brain does, when you are sleeping?- ]     I know that the brain never stops working, so what does it do when you are slleping and not using it.
+
+
+",L-QF,,What does the brain do when you are sleeping?,Ishitha Munnuru,"2/5/2018, 10:55:58 AM",Human Body 2017-2018,5Kirk,,
+L-Q,"
+[    I need to understand  - what the jobs of our liver are. I know that they do over 500 jobs that mostly effect our bodys chemestry, like if here is to much salt in our body- ]
+
+
+",L-QF,,The liver,Jordyn Smith,"2/8/2018, 9:48:08 AM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+[    I need to understand  - why people are on top of the food chain and all of the other animals are being eaten by preadors or us, humans!!!!
+
+
+",L-QF,,HUMANS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Avery Schorr,"1/2/2018, 9:05:10 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+[    I need to understand  -- ]    
+how much hours does it take to digest your food
+
+
+",L-QF,,my question,M10,"2/1/2018, 1:47:01 PM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+[    My theory  - is how long does it take to digest your food- ]
+
+
+",L-QF,,digest,Justin Osborne,"1/16/2018, 9:03:04 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+[    My theory is  - We don't know apples can have different nutrients matter how ripe it is? - ]
+
+
+",L-QF,,Apple,Aiden Thomas,"1/11/2018, 9:36:28 AM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+[    The questions I have now are  - How are the lungs conected to the brain- ]
+
+
+",L-QF,,Lungs,Brooke Young,"1/11/2018, 9:28:31 AM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+[    The questions I have now are  - how do we get blood clots- ]    
+my grandma got a blood clot and i was wondering how do you get them??
+
+
+",L-QF,,blood clots,Olivia Fredericks,"1/9/2018, 8:35:34 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+[    The questions I have now are  - how does the brain tell parts of our body what to do?- ]
+
+
+",L-QF,,Brain question,Emily Ryan,"1/9/2018, 12:25:26 PM",Human Body 2017-2018,5Gagnonagnon,,
+L-Q,"
+[    The questions I have now are  - I am wondering what the digestive system does to break down the food we eat.- ]
+
+
+",L-QF,,Digestive System,Munachi Akubuo,"1/9/2018, 8:37:45 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+[    The questions I have now are  - My grandma got a heart attach and I was wondering how you get them- ]
+
+
+",L-QF,,heart,Samantha Burchard,"1/9/2018, 8:41:48 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+[    The questions I have now are  - One question i have is how does the brain allow us to think and speak?- ]
+
+
+",L-QF,,The Brain,Nathan Thomas,"1/9/2018, 8:37:41 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+[    The questions I have now are  - when you are running and swimming how do your lungs do the same thing when your running and swimming or do they do different things- ]
+
+
+",L-QF,,lungs,Samantha Burchard,"1/9/2018, 8:32:17 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+[    The questions I have now are  - white blood cells are the same or different than red blood cells- ]
+
+
+",L-QF,,cells,Lucas Roberts,"1/9/2018, 8:35:30 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+[    The questions I have now are  - who does the enery get to the parts iI need- ]
+
+
+",L-QF,,dichetion,Justin Osborne,"1/9/2018, 8:36:12 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+[    The questions I have now are  -how many bones are their in your body?-how does your body control your bones?]
+
+
+",L-QF,,Bones,Evan Endres,"1/8/2018, 1:41:19 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+[    The questions I have now are How does our brain get the energy from the apple that we ate???? ]
+
+
+",L-QF,,Brain,Aisling Trodden,"1/8/2018, 1:39:36 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+[    What I know  - is that intestens de-compose the food that we eat.- ]    
+[    The questions I have now are How do our intestens de-compose the food.]
+
+
+",L-QF,,Decompitation,Emily Ryan,"1/8/2018, 1:52:39 PM",Human Body 2017-2018,5Gagnonagnon,,
+L-Q,"
+[    What I know You eat and it goes in your stomach - ]    
+[    The questions I have now are How do you digest food - ]
+
+
+",L-QF,,Digestive System,Zachary Wright,"1/8/2018, 1:51:25 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+but do you know how they are used???
+
+
+",L-QF,,???,Ishitha Munnuru,"1/29/2018, 11:12:30 AM",Human Body 2017-2018,5Kirk,,
+L-Q,"
+But how does the digestive system need oxygen
+
+
+",L-QF,,Lung+ Digestive,Brooke Young,"4/9/2018, 1:50:06 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+But why cant the food diegest why? Does the sickness do something that we dont know?
+
+
+",L-QF,,Build On to brooke,Aiden Thomas,"3/12/2018, 1:28:40 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+Did you know that food, saliva, liquids, and vomit is breathed into the lungs
+
+
+",L-QF,,Can food get in your lungs and effect your heart,Olivia Tarullo,"1/16/2018, 8:59:36 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+How do humans get the energy from food that is not healthy but humans still get energy?
+
+
+",L-QF,,Energy,Mamoon AIJumaili,"1/2/2018, 9:11:31 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+How does our body takeoxagen and nutrience from the body.
+How doesbone marrowgo through the lungsand then go through other parts.
+
+
+",L-QF,,My question?,Sophia Belleville,"1/8/2018, 1:46:13 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+How does the heart and lungs connect?
+
+
+",L-QF,,MY QUESTION,Sophia Belleville,"1/25/2018, 9:43:52 AM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+How does the heart pump blood through-out our body
+
+
+",L-QF,,Heart question,Emily Ryan,"1/9/2018, 12:29:42 PM",Human Body 2017-2018,5Gagnonagnon,,
+L-Q,"
+How does your oxygen release energy from the food you eat?
+
+
+",L-QF,,Oxygen Question,Meena Vallabhaneni,"2/6/2018, 9:59:49 AM",Human Body 2017-2018,5Kenyon,,
+L-Q,"
+how dose a brain think?
+
+
+",L-QF,,brain question,Carissa Lia,"1/11/2018, 9:24:07 AM",Human Body 2017-2018,5Gagnonagnon,,
+L-Q,"
+How dose a heart work.
+
+
+",L-QF,,Question,Carissa Lia,"1/18/2018, 9:41:36 AM",Human Body 2017-2018,5Gagnonagnon,,
+L-Q,"
+How is the Knee capconnected to the nervous system ?
+
+
+",L-QF,,Knee cap+ Nervous system,Brooke Young,"4/26/2018, 9:35:58 AM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+how old are you when the cartelige turns into bones and how does it do it.
+
+
+",L-QF,,what,Ian Carr,"4/25/2018, 5:31:42 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+How would we not live?
+
+
+",L-QF,,add on to abhishek,Brandon Wilson,"1/11/2018, 4:42:39 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+i am wondering how your immune sytem fights of sickness
+
+
+",L-QF,,immune sytem,Michael Cardona,"1/9/2018, 8:33:55 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+i dont know some of the words in this note. Do you know what some of the words mean?
+
+
+",L-QF,,build on,Joshua Ko,"2/1/2018, 12:33:23 PM",Human Body 2017-2018,5Kirk,,
+L-Q,"
+i wonder how the white blood cells work in the immune system and fight off viruses but what do red blood cells do
+
+
+",L-QF,,red and white blood cells,Nicholas Donlon,"1/16/2018, 9:00:42 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+Once I researched that the
+[    The questions I have now are  - why does the octopus has three hearts
+- ]
+
+
+",L-QF,,The Heart,Olivia Tarullo,"1/9/2018, 8:41:30 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+So how exactly does the brain process Dreams or Nightmares and how exactly do they come?
+
+
+",L-QF,,The brain dream..?!,Mamoon AIJumaili,"1/16/2018, 8:58:05 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+thanks i whanted to know what book that was
+
+
+",L-QF,,thanks,Solomon Gebreyes,"1/11/2018, 12:03:01 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+The questions I have now are-how doesthe digestive system work- what happensto the food that gets digestive- and whats in the digestive system.
+
+
+",L-QF,,Digestive System,Brooke Young,"1/8/2018, 1:40:01 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+what doestrauma mean????
+
+
+",L-QF,,????,Tanner Johnson,"3/28/2018, 5:18:02 PM",Human Body 2017-2018,5Kirk,,
+L-Q,"
+what is the journy of the air in your stomach with the burps and the farts
+
+
+",L-QF,,farts Burps,Olivia Rivera,"1/8/2018, 1:43:24 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+What sucks the nutrients is it the digestivesystem?!?!
+
+
+",L-QF,,Digestive system,Aiden Thomas,"1/18/2018, 9:26:56 AM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+Why are there two types of digestive systems?
+
+
+",L-QF,,???,Ishitha Munnuru,"2/1/2018, 12:31:59 PM",Human Body 2017-2018,5Kirk,,
+L-Q,"
+Why do we get bloody noses when our noses get hit or hurt by somthing?
+
+
+",L-QF,,Blood question,Emily Ryan,"1/9/2018, 12:32:59 PM",Human Body 2017-2018,5Gagnonagnon,,
+L-Q,"
+Why do we need nutrients?
+
+
+",L-QF,,Question,Brandon Wilson,"1/22/2018, 6:16:52 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"[    I need to understand  - Bones can support more wight than concreate, but why do they break so easily?",L-QF,,Bones,Anuska Biswakarma,"3/22/2018, 10:28:21 AM",Human Body 2017-2018,5Kenyon,,
+L-Q,"[    I need to understand  - How does your heart stop beating. What caes it to stop beating?- ]
+",L-QF,,How does your heart stop?,Gianna Barnett,"3/29/2018, 10:22:15 AM",Human Body 2017-2018,5Kenyon,,
+L-Q,[    I need to understand  - I have a question. How can the heart create blood? If it does??- ],L-QF,,Build on,Nathaniel Oliver,"2/5/2018, 10:51:44 AM",Human Body 2017-2018,5Kirk,,
+L-Q,[    I need to understand  - What Does the Aorta do in the heart how does it help the heart- ],L-QF,,Aorta,Gianna Barnett,"2/6/2018, 9:57:46 AM",Human Body 2017-2018,5Kenyon,,
+L-Q,"[    I need to understand  - Why when you are in the process of hearing things, the process vibrates.Why does that happen? - ]",L-QF,,Ear Question,Amy Zisa,"5/14/2018, 11:17:04 AM",Human Body 2017-2018,5Kenyon,,
+L-Q,[    My theory  -what happens if bacteria goes into your rest of your body- ],L-QF,,question,M10,"3/20/2018, 8:46:50 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"How is the brain effecting how much pain you will get?
+",L-QF,,Question,Abhishek Suresh Gowda,"3/12/2018, 1:33:41 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"I am also wondering why dose REM happen
+
+
+",L-QF,,REM,Rebecca Hurst,"3/22/2018, 1:45:54 PM",Human Body 2017-2018,5Murphy,,
+L-Q,I am wonderig why your immune system can't find Hiv inside other cells,L-QF,,wonderings about HIV,Michael Cardona,"3/13/2018, 8:27:48 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"I have a question about the digestive system. my question is, how long does it take for food to digest in the human body
+
+
+",L-QF,,build on,Momin Abbas,"2/1/2018, 12:31:25 PM",Human Body 2017-2018,5Kirk,,
+L-Q,"My question for the brain is, How does the brain work?",L-QF,,Brain Question,Madelyn Frey,"3/22/2018, 10:02:29 AM",Human Body 2017-2018,5Kenyon,,
+L-Q,my question is how is the heart muscles diffrent from other muscles in your body?,L-QF,,my question about the heart and lungs,Madeline Fenwick,"2/6/2018, 1:40:35 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,Our heart pumps faster because the faster we move the more blood our heart pumps out. Right?,L-QF,,Question for Sophia,Brandon Wilson,"1/30/2018, 3:48:13 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"QUESTION: How do we picture things in our mind?
+Whenever we think about something, we visualize it, but do you know how?",L-QF,,How do we visualize?,"Ishitha Munnuru, Jocelyn Shako","3/12/2018, 11:20:25 AM",Human Body 2017-2018,5Kirk,,
+L-Q,some qusetoins I have are how do you dream I know that you dream when you go throw a proces cald Raped Eye Movement but how is that possible,L-QF,,dreams,Samantha Burchard,"3/13/2018, 8:27:37 AM",Human Body 2017-2018,5Murphy,,
+L-Q,what are amino acids,L-QF,,question,Lorenzo Scavio,"2/9/2018, 8:00:47 AM",Human Body 2017-2018,5Kenyon,,
+L-Q,"What makes dreams really important? and why do we dream?
+
+
+",L-QF,,build on,Nathaniel Oliver,"3/22/2018, 5:53:57 PM",Human Body 2017-2018,5Kirk,,
+L-Q,"when you hit your funny bone doesnt it send a signal to the brain that say ow and makes your nerve go numb?
+",L-QF,,build on,Ian Carr,"5/7/2018, 4:36:36 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+-
+[    My theory  - Is that since the heart has two chambers it has a chamber that pumps blood to the lungs. - ]    
+[    I need to understand  -why do our lungs need blood? - ]    
+[    New Information  - taught me that we need blood to help get rid of carbon dioxide.- ]
+
+
+",L-QS,,how the heart and lungs connected.,Brandon Wilson,"1/17/2018, 2:38:28 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+[    I need to understand  - How air gets around our body and how do we use it?- ]    
+[    My theory  - Oxygen goes through thin air sacs in our lungs. Passes throug the air sacs to get to the blood vessels. Hemoglobin helps move oxygen from air sacs to the blood.- ]
+
+
+",L-QS,,How air gets around our body,Elizabeth Mandato,"1/18/2018, 10:23:38 AM",Human Body 2017-2018,5Kenyonnyon,,
+L-Q,"
+[    I need to understand  - what is the heart is made of- ]    
+[    New Information  - I learned that the heart is a mucle.- ]
+
+
+",L-QS,,my new question,Johnathan Miner,"2/5/2018, 10:59:29 AM",Human Body 2017-2018,5Kirk,,
+L-Q,"
+[    My theory  - is that the heart works by the person running and doing stuff that makes your heart pump and when our heart pumps the blood moves.
+[    I need to understand  - what does the herat do when we sleep and when we walk and when we talk.- ]
+
+
+",L-QS,,how does the heart work and what does it do.,Natalina Achipen,"1/16/2018, 8:56:44 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+[    New Information  - is that alveoli is conected to the bronchioles and capillary are blood vessels around the alveoli- ]    
+Image -> https://kf6.rit.albany.edu//attachments/59a4c3ef81a25758f12ed73b/5acba7191520905de0eb522b/1/Screenshot 2018-03-12 at 1.53.00 PM.png
+
+
+",L-QS,,alveoli and capillary,Emily Ryan,"4/9/2018, 1:42:08 PM",Human Body 2017-2018,5Gagnonagnon,,
+L-Q,"
+[    The questions I have now are  - how do other systems conect to the digestive systemfor example the circulatory system j said that molecules from your food and n said that the molecules in to your blood I am wondering how this gives you strength and eneregy and brain power -]
+
+
+",L-QS,,digestive system and circulatory system,Jordyn Smith,"1/8/2018, 1:38:54 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+[    The questions I have now are  - how does it work
+[    What I know  - i know that our heart pumps
+[    My theory is  -that the heart it pumping energy- ]    
+- ]    
+- ]
+
+
+",L-QS,,heart,Natalina Achipen,"1/9/2018, 8:40:22 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+[    The questions I have now are  - how dose my stomach get energy from an apple- ]    
+[    My theory is  - that when we eat the apple our stomach digets it and our body gets rid of the waste and the nutrishon from the apple gose to the part of the body that needs it- ]
+
+
+",L-QS,,stomach,Rebecca Hurst,"1/9/2018, 8:34:42 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+[    The questions I have now are  - what do white blood cells have to do with immune system and what does the immune system do to your body how does it work what is in the immune system and how does it fight off sickness
+
+
+",L-QS,,question about immune system,Simon Alpart,"1/9/2018, 8:32:16 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+[    The questions I have now are  -How dothe nutrients get to organs? How does the food get made into the energy? What are the gases that help the food get digested- ]
+
+
+",L-QS,,Digestive system,Jacob Kagan,"1/8/2018, 1:40:39 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+[    The questions I have now are how do the molecules move from the small intestine to body parts like the brain?
+[    What I know Is that the molecules go in veins from the small intestine, the question is how do they move through the veins. Many things normally move by the flow of air and water. Things don't get around a body by air, but A flow of something that moves around your body is blood.
+[    My theory is that blood moves molecules around your body. Like I said, flows of movement often move many thing around. Also, blood flows up and down your body. So, there's a chance that the blood flows the molecules from the small intestine, through the veins, and up to the heart and brain.
+
+
+",L-QS,,Digestive System,Evan Bauer,"1/8/2018, 1:40:29 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+[    What I know  - is that there are red and white blood cells but i think white blood cells fight of sicknesess- ]    
+[    The questions I have now are  - how do white blood cells fight off sicknesess but red blood cells do not- ]
+
+
+",L-QS,,Blood Cells,Nicholas Donlon,"1/9/2018, 8:37:26 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+Did you know that there is an estimate that we have 50 Billion fat cells and 2 billion heart muscle cells. Adding up all their numbers, the scientists came up with...drumroll... 37.2 trillion cells
+[    I need to understand  - why there are so many cells in the body.- ]
+
+
+",L-QS,,Blood Cells In Heart,Olivia Tarullo,"1/17/2018, 2:50:27 PM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+how dose the energy get from our stomach to our brain
+[    My theory  - is that it gets in out blood and then it goes to our brain- ]
+
+
+",L-QS,,Just a question I have,Samantha Burchard,"1/2/2018, 9:03:59 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+I am wondering why when you run fast sometimes you can't catch your breath.
+[    My theory  - is sometimes when you are running you lose a lot of breath and your pulse is going very fast- ]
+
+
+",L-QS,,Breathing,Olivia Tarullo,"1/4/2018, 7:13:26 PM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+I have been wondering how long does it take for our bodies?
+[    My theory  - is that it matter on the size of the food that you eat.- ]
+
+
+",L-QS,,How long does it take to digest food,Teagan Wadsworth,"1/16/2018, 8:57:37 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+I have been wondering, where does the food go when we eat it. I know it goes into our stomach, but where does it go before you go to the bathroom. There has to be something in between.
+
+
+",L-QS,,Where does the food go when we eat it?,Teagan Wadsworth,"1/9/2018, 8:53:40 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+I know that the brain uses different parts of it to control the body and to get information from. But I want to know what parts it uses for a paticular thing.
+
+
+",L-QS,,The Brain,Ishitha Munnuru,"1/29/2018, 11:05:48 AM",Human Body 2017-2018,5Kirk,,
+L-Q,"
+my question is how dose the brain connect to ______? this blank can be filled with lots on lots of things like thoughts,tempature,dreams,balence,movement,breathing,digesting and growth. I can and will answer all of this (look at my other notes for refrence) Q. Thoughts A. Cerebrum Q.temature A. Hypothalamus Q.dreams A.Cerebrum Q. Balence A. cerebellum Q.movement A. Cerebellum Q.Breathing A. Brainstem Q.Digesting A.Brainstem Q. Growth A.pituitary. I still have a lot of things to fill in this blank and i hope to answer my question even more than it is.
+
+
+",L-QS,,Answering My Question,Emily Cataldo,"1/25/2018, 10:36:36 AM",Human Body 2017-2018,5Kenyon,,
+L-Q,"
+My question is that when my feet have a reaction
+[    My theory is  - that sometimes that my feet start tingle and i want to know why that happens when my feet start to tinle and try to walk it's like a really hard tingle so that my question- ]
+
+
+",L-QS,,question when people feet have a reaction,Himani Nadimpalli,"1/9/2018, 8:44:17 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+one thing that i am wondering is
+* why do we have two arms
+* why do we have nails on our hand
+* what is our nails made from
+* what is our skin made of
+
+
+",L-QS,,thotghs about arms,Solomon Gebreyes,"1/8/2018, 1:41:10 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"
+Question: Where does our blood flow when exercising?
+Answer:When exercising, your heart rate gets faster and the blood flow to your whole body increases. Including to the brain.
+
+
+",L-QS,,Blood Flow,Meena Vallabhaneni,"1/30/2018, 5:45:15 PM",Human Body 2017-2018,5Kenyon,,
+L-Q,"
+So then why do you sleep walk? Is is sleep paralysis? You said that sleep paralysis was really scary and it could end up with you being in a coma but sleep walking is fine, I think. Does anyone have any information on why you sleepwalk? If so, please share it because I want to know why.
+
+
+",L-QS,,Sleep Walking,Nadia Hawrylchak,"2/15/2018, 3:46:02 PM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+What I already know about cancer is that there are alought of difrent kinds of cancer some are brain cancer lung cancer and more
+[    I need to understand  - what are some othere kinds of cancer- ]
+
+
+",L-QS,,What I all ready know about cancer,Samantha Burchard,"1/16/2018, 8:56:59 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+when you dream you go throw a cycle caled REM Rapad Eye Movement that is when your eyes jump around under your eye lids is can happen from 10 minuts to an hour and your dreams can bring strong Emotiton.
+[    I need to understand  - how they do this with out you knowining- ]
+
+
+",L-QS,,how dreams are made,Samantha Burchard,"2/1/2018, 1:32:11 PM",Human Body 2017-2018,5Murphy,,
+L-Q,"
+when you eat an apple where dose the excess sugar go
+[    My theory  - my thery is it gets stoke in your teath and you brusht them to rem=ove sugar- ]
+
+
+",L-QS,,excess sugar,"Lucas Roberts, Patricia Gagnon","1/2/2018, 9:06:16 AM",Human Body 2017-2018,5Murphy,,
+L-Q,"[    I need to understand  - how the heart pulse works- ]     
+The way the heart pulse works is simple but interesting. It also connects a little bit with blood pressure. The way it works is, the heart sends blood to your wrist and your throat and the blood pressure makes a pulse so you can feel the heart beat in the 4 areas. Thats pretty much how the heart pulse work.",L-QS,,Heart Pulse,Ami Sidi,"1/23/2018, 10:18:17 AM",Human Body 2017-2018,5Kenyon,,
+L-Q,"[    I need to understand  - more about how the brain contorls the body!- ]     but I do know what controls your dreams, the nerve cells...but the nerve cells dont just do that, the nerve cells also controls how people, see, hear, smell, taste and touch",L-QS,,Brain facts,"Emily Spofford, Jianwei zhang","3/12/2018, 11:24:50 AM",Human Body 2017-2018,5Kirk,,
+L-Q,"[    I need to understand  - What is hemoglobin, and what does it do?- ]    
+[    My theory  - Hemoglobin is the protien moleclule in red bllod cells that carries oxygen from the lungs to the body's tissues. Hemoglobin also returns carbondioxide to the lungs.- ]",L-QS,,Hemoglobin,Elizabeth Mandato,"2/8/2018, 3:58:58 PM",Human Body 2017-2018,5Kenyonnyon,,
+L-Q,[    I need to understand  - why you might feel dizzy or blacking out when you get hit in the head.What are the other effects.How is it effecting yor brain.- ],L-QS,,My Wonders On The Brain,Abhishek Suresh Gowda,"3/12/2018, 1:28:13 PM",Human Body 2017-2018,5Gagnon,,
+L-Q,"[    I need to understand  -How the brain stem works- ]    
+[    My theory  - is it connects to the muscles and spine and controls the way it moves.- ]",L-QS,,The Brain Stem (my theory on it),Ami Sidi,"2/6/2018, 9:54:06 AM",Human Body 2017-2018,5Kenyon,,
+L-Q,"[    I need to understand - how the human body uses air and what the stuff in the air is called?
+[    My theory -the air goes into the branches in your lungs takes all the good nutreints and put it in your blood and your blood brings the good nutrieants go to body parts-]    
+-]",L-QS,,breathing,John Upton,"1/23/2018, 10:07:39 AM",Human Body 2017-2018,5Kenyon,,
+L-Q,"[    My theory  - Is if you dont have eyes what will happen to you?
+I think you you dont have eyes it will be hard to see and make you blind- ]    
+- ]",L-QS,,eyes,Gabrielle Taylor,"3/22/2018, 10:12:10 AM",Human Body 2017-2018,5Kenyon,,
+L-Q,"[    My theory  - There are different types of tissues in our body like the nervous tissue, the muscle tissue, the connective, and the epethelial tissue.All of the tissues need oxygen. 
+[    I need to understand  - why do they need the oxygen and what do they do with it.- ]    
+- ]
+",L-QS,,Tissues and oxygen,Elizabeth Mandato,"3/15/2018, 10:26:29 AM",Human Body 2017-2018,5Kenyonnyon,,
+L-Q,"[    New Information  - the new information that - ]    
+[    My theory  - brain controls your body by sending singal
+[    I need to understand  - how does it send signals- ]    
+- ]",L-QS,,this is an example,Mugdha Gogula,"3/1/2018, 1:42:53 PM",Human Body 2017-2018,5Murphy,,
+L-Q,"Image -> https://kf6.rit.albany.edu//attachments/59a4c3ef81a25758f12ed73b/5a7c9bfee12f2e2c045cb55e/1/DSC00069.JPG
+spotty tomatos can mess with your blood cells by letting unkown bacteria in your body and and that can lead to didease and then death",L-QS,,blood cells and spotty prodice,Nicholas Donlon,"2/8/2018, 1:49:52 PM",Human Body 2017-2018,5Murphy,,
+L-Q,"My qustion is how the body uses blood and how the blood works.
+[    My theory  - is that blood helps heal parts of the body because when you are bleeding the blood rushes to the cut and comes out of the body.- ]",L-QS,,My  Question,Ami Sidi,"3/22/2018, 10:02:39 AM",Human Body 2017-2018,5Kenyon,,
+L-Q,"On Brain Pop I learned that it is more likey for boys to get Atsuim
+[    I need to understand  - Why?- ]",L-QS,,What does this fact mean,Kirsten Barnhart,"2/1/2018, 1:43:43 PM",Human Body 2017-2018,5Murphy,,
+L-Q,"Once that electrical signal is sent through the nerves, it doesn't trigger your muscles directly. It breaks down energy (adenosine tri-phosphate) with water (How does the nerve trigger that? So many unanswered questions!), and lets out energy from food (Which is?) and something called phosphocreatine.
+
+
+",L-QS,,What happens next,Atri Dey,"1/30/2018, 4:04:07 PM",Human Body 2017-2018,5Kenyon,,
+L-Q,"The Pulmonary vein collects the blood cells after the oxygen travels through the Trachea and attaches on blood cells.
+Image -> https://kf6.rit.albany.edu//attachments/59a4c3ef81a25758f12ed73b/5a935714da167b4b8494439a/1/blob",L-QS,,The Pulmonary vein's job,Emily Ryan,"2/25/2018, 7:23:02 PM",Human Body 2017-2018,5Gagnonagnon,,
+L-Q,"There are 4 chambers in your heart. The left and right Atrium and the left and right Ventricle. The Ventricle is the bottom chamber and the Atrium is the top chamber.
+Image -> https://kf6.rit.albany.edu//attachments/59a4c3ef81a25758f12ed73b/5a859b05da167b4b84943ec6/1/Screenshot 2018-02-15 at 9.36.01 AM.png
+
+
+",L-QS,,Chambers in your heart,Emily Ryan,"2/15/2018, 9:36:34 AM",Human Body 2017-2018,5Gagnonagnon,,
+L-Q,"We don't really think about how we think but if we could It would probally change the earth as we know it because we could change the way people are thinking and we could study that tech and it could change the world as I said before.
+[    I need to understand  - Why can't we know about thinking?- ]     sure we can think about it but why don't we know 100% about it when we do it all the time?
+",L-QS,,Thinking,Kirsten Barnhart,"3/13/2018, 8:32:24 AM",Human Body 2017-2018,5Murphy,,
