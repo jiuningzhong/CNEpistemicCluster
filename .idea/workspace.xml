@@ -3,24 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3ab88b18-c6a7-4c4c-a252-f58dc59bf3df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextBlob/Train_KF2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_KF2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextBlob/Train_KF2_comma.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_KF2_comma.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextBlob/Train_KF2_hashes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_KF2_hashes.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextBlob/Train_KF_T.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_KF_T.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextBlob/Train_KF_T_comma.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_KF_T_comma.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextBlob/Train_KF_T_hashes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_KF_T_hashes.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextBlob/Train_KF_X.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_KF_X.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextBlob/Train_KF_X_comma.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_KF_X_comma.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextBlob/Train_KF_X_hashes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_KF_X_hashes.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextBlob/Train_all_types.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_all_types.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextBlob/Train_all_types_comma.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_all_types_comma.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextBlob/Train_all_types_hashes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_all_types_hashes.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextBlob/Train_question.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_question.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextBlob/Train_question_comma.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_question_comma.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextBlob/Train_question_hashes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_question_hashes.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextBlob/Train_resource.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_resource.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextBlob/Train_resource_comma.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_resource_comma.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextBlob/Train_resource_hashes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/Train_resource_hashes.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TextBlob/sentimentAnalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/TextBlob/sentimentAnalysis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +34,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TextBlob" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -176,6 +158,8 @@
       <workItem from="1583457784111" duration="43390000" />
       <workItem from="1584835157035" duration="4418000" />
       <workItem from="1585622796633" duration="367000" />
+      <workItem from="1586047432393" duration="107000" />
+      <workItem from="1586047631188" duration="7819000" />
     </task>
     <servers />
   </component>
@@ -187,10 +171,6 @@
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="184" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.811@0.23.1440.811" timestamp="1583283069612" />
-    <state x="2317" y="348" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579562937409">
-      <screen x="1600" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2317" y="348" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1579562937409" />
     <state width="1313" height="466" key="DebuggerActiveHint" timestamp="1581391481033">
       <screen x="1600" y="0" width="1920" height="1080" />
     </state>
@@ -259,11 +239,11 @@
     </state>
     <state width="1898" height="369" key="GridCell.Tab.1.right/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1581391794723" />
     <state width="1398" height="253" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1584829296892" />
-    <state x="488" y="116" key="SettingsEditor" timestamp="1583109303218">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state x="366" y="102" key="SettingsEditor" timestamp="1589676697979">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="366" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1583035639710" />
-    <state x="2088" y="103" key="SettingsEditor/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1579563783762" />
+    <state x="366" y="102" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1589676697979" />
     <state x="488" y="116" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1583109303218" />
     <state x="227" y="-13" width="845" height="809" key="find.popup" timestamp="1583617677521">
       <screen x="0" y="23" width="1440" height="814" />
@@ -292,8 +272,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/TextBlob/sentimentAnalysis.py</url>
-          <line>235</line>
+          <line>230</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TextBlob/sentimentAnalysis.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

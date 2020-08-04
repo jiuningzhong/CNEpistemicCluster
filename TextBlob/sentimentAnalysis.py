@@ -18,7 +18,6 @@ class Dict(dict):
     def __missing__(self, key):
         return 0
 
-
 # global variable
 # https://docs.python.org/3/library/stdtypes.html#dict
 polarity_dict = Dict()
@@ -29,6 +28,7 @@ text_with_dup_dict = Dict()
 
 text_dict_EE = Dict()
 text_dict_E = Dict()
+
 text_dict_F = Dict()
 text_dict_EF = Dict()
 
@@ -111,11 +111,6 @@ def clean_text(text):
     # print('before strip():' + text)
 
     text = (" ".join(text.split())).strip().apply(strip_html_tags)
-    # print('after strip():' + text)
-    # split text without spaces into list of words and concatenate string in a list to a single string
-    # text = ' '.join(wn.split(text))
-
-    # spell check
 
     return text
 
